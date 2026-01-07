@@ -14,17 +14,17 @@ The game can be played on the following platforms:
 Example `english.csv`:
     ```csv
         ,en_US
-        LANGUAGE_NAME,English
-        UI_TUTORIAL,Tutorial
-        UI_PLAY,Play
+        LANGUAGE_NAME,"English"
+        UI_TUTORIAL,"Tutorial"
+        UI_PLAY,"Play"
         ...
     ```
     Edited version `german.csv`:  
     ```csv
         ,de_DE
-        LANGUAGE_NAME,Deutsch
-        UI_TUTORIAL,Tutorial
-        UI_PLAY,Spielen
+        LANGUAGE_NAME,"Deutsch"
+        UI_TUTORIAL,"Tutorial"
+        UI_PLAY,"Spielen"
         ...
     ```
     Make sure to not to add or remove any lines. The resulting CSV must contain the exact same line count as the original `english.csv`. 
