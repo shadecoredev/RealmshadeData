@@ -104,15 +104,15 @@ UI_VALOUR_DEPLETED_MSG,Доблесть истощена. Начать зано�
 UI_VICTORY,Победа!
 UI_RUN_COMPLETED,Забег завершен.
 UI_GO_TO_TITLE_SCREEN,Выйти в титульный экран
-UI_NO_OPPONENTS_MSG,It seems there are no more opponents left. Your progress is saved.
+UI_NO_OPPONENTS_MSG,Похоже больше нет противников. Ваш прогресс сохранен.
 
-UI_PROCEED,Proceed
-UI_VALOUR_BONUS_MSG,Get valour protection for 3 levels
-UI_HATCHET_BONUS_MSG,Get a Bone Hatchet
-UI_PICKAXE_BONUS_MSG,Get a Bone Pickaxe
-UI_FISHING_ROD_BONUS_MSG,Get a Bone Fishing Rod
-UI_UNWORTHY_BONUS_MSG,Finish a fight at level 3 to be eligible to gain a reward at the start of your next run.
-UI_WORTHY_BONUS_MSG,The Shade has deemed you worthy. Choose one reward:
+UI_PROCEED,Продолжить
+UI_VALOUR_BONUS_MSG,Получить защиту доблести на 3 уровня
+UI_HATCHET_BONUS_MSG,Получить Костяной Топорик
+UI_PICKAXE_BONUS_MSG,Получить Костяную Кирку
+UI_FISHING_ROD_BONUS_MSG,Получить Костяную Удочку
+UI_UNWORTHY_BONUS_MSG,Завершите бой на 3-м уровне, чтобы получить награду в начале следующего забега.
+UI_WORTHY_BONUS_MSG,Тень сочла вас достойным. Выберите одну награду:
 
 EVENT_FREE_REWARD,бесплатная награда
 EVENT_FIGHT,сражение
@@ -123,38 +123,38 @@ EVENT_FISHING_SPOT,место рабной ловли
 EVENT_NOT_ENOUGH_INGREDIENTS,Не достаточно ингридиентов!
 EVENT_NO_SUITABLE_TOOL,Нет подходящего инструмента!
 
-EVENT_CRAFT_OR_SEARCH_MSG,Choose to spend your time crafting or searching the crafting station surroundings for ingredients.
-EVENT_CRAFT_WITH_AVAILABLE_ITEMS,Craft with available items
-EVENT_SEARCH_FOR_NEW_INGREDIENTS,Search for new ingredients
-EVENT_NOT_ENOUGH_INGREDIENTS_MSG,Not enough ingredients to craft at the %s.
-EVENT_AVAILABLE_CRAFTING_RESULT,Available crafting result:
-EVENT_AVAILABLE_CRAFTING_RESULT_PLURAL,Available crafting results:
-EVENT_NOT_ABLE_TO_CRAFT_WITH_THIS_MSG,Not able to craft anything with this at the %s.
-EVENT_ADD_SECOND_ITEM_TO_CRAFT_THIS,Add a second item to craft this:
-EVENT_ADD_SECOND_ITEM_TO_CRAFT_THIS_PLURAL,Add a second item to craft one of these:
-EVENT_INVALID_RECIPE_MSG,This is not a valid recipe at the %s.
-EVENT_TAKE_THE_CRAFTING_RESULT,Take the crafting result:
+EVENT_CRAFT_OR_SEARCH_MSG,Вы можете посвятить время созданию предметов или поиску ингредиентов вокруг.
+EVENT_CRAFT_WITH_AVAILABLE_ITEMS,Создавать предметы из имеющихся
+EVENT_SEARCH_FOR_NEW_INGREDIENTS,Поиск новых ингредиентов
+EVENT_NOT_ENOUGH_INGREDIENTS_MSG,Недостаточно ингредиентов для изготовления в %s.
+EVENT_AVAILABLE_CRAFTING_RESULT,Доступный результат крафта:
+EVENT_AVAILABLE_CRAFTING_RESULT_PLURAL,Доступные результаты крафта:
+EVENT_NOT_ABLE_TO_CRAFT_WITH_THIS_MSG,Невозможно ничего изготовить в %s.
+EVENT_ADD_SECOND_ITEM_TO_CRAFT_THIS,Добавьте второй предмет, чтобы создать:
+EVENT_ADD_SECOND_ITEM_TO_CRAFT_THIS_PLURAL,Добавьте второй предмет, чтобы создать:
+EVENT_INVALID_RECIPE_MSG,Это недействительный рецепт в %s.
+EVENT_TAKE_THE_CRAFTING_RESULT,Возьмите результат крафта:
+EVENT_MOVE_ITEMS_TO_CRAFT_MSG,Переместите отмеченные звездой предметы в слоты.
 
+EVENT_MOVE_A_TOOl_MSG,Переместите инструмент, отмеченный звездочкой, в соответствующий слот, чтобы начать сбор ресурсов.
+EVENT_COLLECT_YOUR_TOOL_MSG,Возьмите инструмент и добытые ресурсы.
+EVENT_CHANCE_TO_GATHER,Шанс собрать: %d%%
+EVENT_BEGIN,Приступить
 
-EVENT_MOVE_A_TOOl_MSG,Move a tool item marked by a star into the slot to begin gathering.
-EVENT_COLLECT_YOUR_TOOL_MSG,Collect your tool and\nany gathered materials.
-EVENT_CHANCE_TO_GATHER,Chance to gather: %d%%
-EVENT_BEGIN,Begin
+EVENT_GATHER_OR_SEARCH_MSG,Вы можете посвятить время добыче или поиску материалов вокруг.
+EVENT_GATHER_USING_TOOL,Добывать инструментом
+EVENT_SEARCH_FOR_RESOURCES,Искать ингредиенты
 
-EVENT_GATHER_OR_SEARCH_MSG,Choose to spend your time gathering or searching the surroundings for resources.
-EVENT_GATHER_USING_TOOL,Gather using a tool
-EVENT_SEARCH_FOR_RESOURCES,Search for resources
+EVENT_PULL_GAUGE_MSG,Нажмите "Тянуть" чтобы увеличить шкалу.
+EVENT_PRESS_CATCH_MSG,Нажмите "Ловить" когда шкала близка к линии
+EVENT_PULL,Тянуть
+EVENT_CATCH,Ловить
 
-EVENT_PULL_GAUGE_MSG,Press the Pull button to increase the gauge.
-EVENT_PRESS_CATCH_MSG,Press the Catch button when the gauge is close to the line
-EVENT_PULL,Pull
-EVENT_CATCH,Catch
+EVENT_PRESS_WHEN_GAUGE_FILLED_MSG,Нажмите "Копать" когда шкала заполнена. У Вас 3 попытки.
+EVENT_DIG,Копать
 
-EVENT_PRESS_WHEN_GAUGE_FILLED_MSG,Press the button when the gauge is filled. You have 3 attempts.
-EVENT_DIG,Dig
-
-EVENT_PRESS_WHEN_GAUGE_IN_MIDDLE_MSG,Press the button when the gauge is in a middle. You have 3 attempts.
-EVENT_CUT,Cut
+EVENT_PRESS_WHEN_GAUGE_IN_MIDDLE_MSG,Нажмите "Рубить" когда шкала в середине. У Вас 3 попытки.
+EVENT_CUT,Рубить
 
 TAG_MELEE,Ближний бой
 TAG_MAGIC,Магическое

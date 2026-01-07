@@ -104,6 +104,15 @@ UI_VALOUR_DEPLETED_MSG,Valour is depleted. Restart?
 UI_VICTORY,Victory!
 UI_RUN_COMPLETED,Run completed.
 UI_GO_TO_TITLE_SCREEN,Go to title screen
+UI_NO_OPPONENTS_MSG,It seems there are no more opponents left. Your progress is saved.
+
+UI_PROCEED,Proceed
+UI_VALOUR_BONUS_MSG,Get valour protection for 3 levels
+UI_HATCHET_BONUS_MSG,Get a Bone Hatchet
+UI_PICKAXE_BONUS_MSG,Get a Bone Pickaxe
+UI_FISHING_ROD_BONUS_MSG,Get a Bone Fishing Rod
+UI_UNWORTHY_BONUS_MSG,Finish a fight at level 3 to be eligible to gain a reward at the start of your next run.
+UI_WORTHY_BONUS_MSG,The Shade has deemed you worthy. Choose one reward:
 
 EVENT_FREE_REWARD,free reward
 EVENT_FIGHT,fight
@@ -114,6 +123,38 @@ EVENT_FISHING_SPOT,fishing spot
 EVENT_NOT_ENOUGH_INGREDIENTS,Not enough ingredients!
 EVENT_NO_SUITABLE_TOOL,No suitable tool!
 
+EVENT_CRAFT_OR_SEARCH_MSG,Choose to spend your time crafting or searching the crafting station surroundings for ingredients.
+EVENT_CRAFT_WITH_AVAILABLE_ITEMS,Craft with available items
+EVENT_SEARCH_FOR_NEW_INGREDIENTS,Search for new ingredients
+EVENT_NOT_ENOUGH_INGREDIENTS_MSG,Not enough ingredients to craft at the %s.
+EVENT_AVAILABLE_CRAFTING_RESULT,Available crafting result:
+EVENT_AVAILABLE_CRAFTING_RESULT_PLURAL,Available crafting results:
+EVENT_NOT_ABLE_TO_CRAFT_WITH_THIS_MSG,Not able to craft anything with this at the %s.
+EVENT_ADD_SECOND_ITEM_TO_CRAFT_THIS,Add a second item to craft this:
+EVENT_ADD_SECOND_ITEM_TO_CRAFT_THIS_PLURAL,Add a second item to craft one of these:
+EVENT_INVALID_RECIPE_MSG,This is not a valid recipe at the %s.
+EVENT_TAKE_THE_CRAFTING_RESULT,Take the crafting result:
+EVENT_MOVE_ITEMS_TO_CRAFT_MSG,Move items marked by a star into the item slots.
+
+EVENT_MOVE_A_TOOl_MSG,Move a tool item marked by a star into the slot to begin gathering.
+EVENT_COLLECT_YOUR_TOOL_MSG,Collect your tool and\nany gathered materials.
+EVENT_CHANCE_TO_GATHER,Chance to gather: %d%%
+EVENT_BEGIN,Begin
+
+EVENT_GATHER_OR_SEARCH_MSG,Choose to spend your time gathering or searching the surroundings for resources.
+EVENT_GATHER_USING_TOOL,Gather using a tool
+EVENT_SEARCH_FOR_RESOURCES,Search for resources
+
+EVENT_PULL_GAUGE_MSG,Press the Pull button to increase the gauge.
+EVENT_PRESS_CATCH_MSG,Press the Catch button when the gauge is close to the line.
+EVENT_PULL,Pull
+EVENT_CATCH,Catch
+
+EVENT_PRESS_WHEN_GAUGE_FILLED_MSG,Press the button when the gauge is filled. You have 3 attempts.
+EVENT_DIG,Dig
+
+EVENT_PRESS_WHEN_GAUGE_IN_MIDDLE_MSG,Press the button when the gauge is in a middle. You have 3 attempts.
+EVENT_CUT,Cut
 
 TAG_MELEE,Melee
 TAG_MAGIC,Magic
@@ -152,127 +193,56 @@ TOOLTIP_INFLICT,Inflict
 TOOLTIP_SUFFER,Suffer
 
 TOOLTIP_RESISTANCE_FROM,resistance from
-TOOLTIP_RESISTANCE_FROM_PLURAL,resistance from
-
 TOOLTIP_POWER_OF,power of
-TOOLTIP_POWER_OF_PLURAL,power of
-
 TOOLTIP_STEAL,steal
-TOOLTIP_STEAL_PLURAL,steal
 
 TOOLTIP_HEALTH,health
-TOOLTIP_HEALTH_PLURAL,health
-
 TOOLTIP_DAMAGE,damage
-TOOLTIP_DAMAGE_PLURAL,damage
-
 TOOLTIP_HEAL,heal
-TOOLTIP_HEAL_PLURAL,heal
-
 TOOLTIP_PURITY,purity
-TOOLTIP_PURITY_PLURAL,purity
-
 TOOLTIP_REGENERATION,regeneration
-TOOLTIP_REGENERATION_PLURAL,regeneration
-
 TOOLTIP_THORNS,thorns
-TOOLTIP_THORNS_PLURAL,thorns
-
 TOOLTIP_SWIFTNESS,swiftness
-TOOLTIP_SWIFTNESS_PLURAL,swiftness
-
 TOOLTIP_FURY,fury
-TOOLTIP_FURY_PLURAL,fury
-
 TOOLTIP_DOOM,doom
-TOOLTIP_DOOM_PLURAL,doom
-
 TOOLTIP_POISON,poison
-TOOLTIP_POISON_PLURAL,poison
-
 TOOLTIP_FIRE,fire
-TOOLTIP_FIRE_PLURAL,fire
-
 TOOLTIP_SHOCK,shock
-TOOLTIP_SHOCK_PLURAL,shock
-
 TOOLTIP_ACID,acid
-TOOLTIP_ACID_PLURAL,acid
-
 TOOLTIP_BLOCK,block
-TOOLTIP_BLOCK_PLURAL,block
-
 TOOLTIP_BARRIER,barrier
-TOOLTIP_BARRIER_PLURAL,barrier
-
 TOOLTIP_ABSORPTION,absorption
-TOOLTIP_ABSORPTION_PLURAL,absorption
 
 TOOLTIP_SHOCK_MSG,Inflict %s shock
-TOOLTIP_SHOCK_PLURAL_MSG,Inflict %s shock
 TOOLTIP_SELF_SHOCK_MSG,Suffer %s shock
-TOOLTIP_SELF_SHOCK_PLURAL_MSG,Suffer %s shock
 
 TOOLTIP_FIRE_MSG,Inflict %s fire
-TOOLTIP_FIRE_PLURAL_MSG,Inflict %s fire
 TOOLTIP_SELF_FIRE_MSG,Suffer %s fire
-TOOLTIP_SELF_FIRE_PLURAL_MSG,Suffer %s fire
 
 TOOLTIP_POISON_MSG,Inflict %s poison
-TOOLTIP_POISON_PLURAL_MSG,Inflict %s poison
 TOOLTIP_SELF_POISON_MSG,Suffer %s poison
-TOOLTIP_SELF_POISON_PLURAL_MSG,Suffer %s poison
 
 TOOLTIP_ACID_MSG,Inflict %s acid
-TOOLTIP_ACID_PLURAL_MSG,Inflict %s acid
 TOOLTIP_SELF_ACID_MSG,Suffer %s acid
-TOOLTIP_SELF_ACID_PLURAL_MSG,Suffer %s acid
 
 TOOLTIP_DOOM_MSG,Inflict %s doom
-TOOLTIP_DOOM_PLURAL_MSG,Inflict %s doom
 TOOLTIP_SELF_DOOM_MSG,Suffer %s doom
-TOOLTIP_SELF_DOOM_PLURAL_MSG,Suffer %s doom
 
 TOOLTIP_DAMAGE_MSG,Deal %s damage
-TOOLTIP_DAMAGE_PLURAL_MSG,Deal %s damage
 TOOLTIP_SELF_DAMAGE_MSG,Suffer %s damage
-TOOLTIP_SELF_DAMAGE_PLURAL_MSG,Suffer %s damage
 
 TOOLTIP_BLOCK_MSG,Gain %s block
-TOOLTIP_BLOCK_PLURAL_MSG,Gain %s block
-
 TOOLTIP_ABSORPTION_MSG,Gain %s absorption
-TOOLTIP_ABSORPTION_PLURAL_MSG,Gain %s absorption
-
 TOOLTIP_BARRIER_MSG,Gain %s maximum barrier
-TOOLTIP_BARRIER_PLURAL_MSG,Gain %s maximum barrier
-
 TOOLTIP_RESTORE_BARRIER_MSG,Restore %s barrier
-TOOLTIP_RESTORE_BARRIER_PLURAL_MSG,Restore %s barrier
-
 TOOLTIP_HEAL_MSG,Heal %s health
-TOOLTIP_HEAL_PLURAL_MSG,Heal %s health
-
 TOOLTIP_HEALTH_MSG,Gain %s health
-TOOLTIP_HEALTH_PLURAL_MSG,Gain %s health
-
 TOOLTIP_REGENERATION_MSG,Gain %s regeneration
-TOOLTIP_REGENERATION_PLURAL_MSG,Gain %s regeneration
-
 TOOLTIP_PURITY_MSG,Gain %s purity
-TOOLTIP_PURITY_PLURAL_MSG,Gain %s purity
-
 TOOLTIP_FURY_MSG,Gain %s fury
-TOOLTIP_FURY_PLURAL_MSG,Gain %s fury
-
 TOOLTIP_THORNS_MSG,Gain %s thorns
-TOOLTIP_THORNS_PLURAL_MSG,Gain %s thorns
-
 TOOLTIP_GAIN_SWIFTNESS_MSG,Gain %s swiftness
-TOOLTIP_GAIN_SWIFTNESS_PLURAL_MSG,Gain %s swiftness
-
 TOOLTIP_LOSE_SWIFTNESS_MSG,Lose %s swiftness
-TOOLTIP_LOSE_SWIFTNESS_PLURAL_MSG,Lose %s swiftness
 
 INFO_RESISTANCE_MSG,Resistance is a status effect that reduces incoming damage, inflicted ailments or status effects from a source according to a formula: [center]Received effect = Effect / (1 + Resistance/100)[/center]
 INFO_POWER_MSG,Power is a status effect that increases the specified effect by a percentage. Each point of power gives 1% increase.
