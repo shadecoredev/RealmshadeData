@@ -1,5 +1,11 @@
 # Realmshade Data
-This repository contains all resource files for the game Realmshade.
+This repository contains all resource files for the game Realmshade - multiplayer browser autobattler.
+
+The game can be played on the following platforms:  
+[Newgrounds](https://www.newgrounds.com/portal/view/1010624)  
+[Gamejolt](https://gamejolt.com/games/realmshade/1032103)  
+[Itch](https://shadecore-dev.itch.io/realmshade)  
+
 
 ## Adding new language translation
 1. To propose a new language translation, first look for an existing fork for your language, or create a new fork. I recommend including language name in the fork title.
@@ -40,6 +46,7 @@ Example `apple.json`:
         }
     ...
     ```
+5. After the CSV translation is complete and all JSON files contain the translation keys, you can create a pull request to merge the changes. New translation become available in the next patch for the game. Each translation contributor will be credited.
 
 ## CSV translation information
 First line of the CSV file contains a comma ',' and a locale code. Choose appropriate locale code for your translation based on this documentation: https://docs.godotengine.org/en/stable/tutorials/i18n/locales.html
