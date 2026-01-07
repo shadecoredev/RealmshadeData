@@ -51,8 +51,10 @@ Example `apple.json`:
 ## CSV translation information
 First line of the CSV file contains a comma ',' and a locale code. Choose appropriate locale code for your translation based on this documentation: https://docs.godotengine.org/en/stable/tutorials/i18n/locales.html
 
-Each line of the CSV file contains a key, followed by a comma ',' and a key translation.  
-Keys have a format: `<TAG>_<NAME>(_MSG)`  
+Second line contains the name for the language in format `LANGUAGE_NAME,"..."`. This word will be displayed on the button for choosing the language in-game.
+
+Each other line of the CSV file contains a key, followed by a comma ',' and a key translation in double quotes.  
+All keys have a format: `<TAG>_<NAME>(_MSG)`  
 `<TAG>` is a single word that represents a context for the text.  
 `<NAME>` represents either english text that can be translated directly (if no suffix `_MSG` present), or a name for the message.  
 To translate keys that end with `_MSG` you must refer to `english.csv` to see the original message.
