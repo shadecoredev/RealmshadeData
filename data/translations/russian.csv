@@ -192,7 +192,9 @@ TOOLTIP_LOSE,"Забирает"
 TOOLTIP_INFLICT,"Наносит"
 TOOLTIP_SUFFER,"Причиняет Вам"
 
+TOOLTIP_RESISTANCE,"сопротивление"
 TOOLTIP_RESISTANCE_FROM,"сопротивления эффекту"
+TOOLTIP_POWER,"сила"
 TOOLTIP_POWER_OF,"силы эфффекта"
 TOOLTIP_STEAL,"крадет"
 
