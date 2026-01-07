@@ -57,8 +57,8 @@ Keys have a format: `<TAG>_<NAME>(_MSG)`
 `<NAME>` represents either english text that can be translated directly (if no suffix `_MSG` present), or a name for the message.  
 To translate keys that end with `_MSG` you must refer to `english.csv` to see the original message.
 
-Sometimes a message text contains a character sequence like this: `%s`, `%d`, `%%`.
-This sequence represents a placeholder for another text or value. Make sure to not edit or remove this placeholder in the resulting translated text.
+Sometimes a message text contains a placeholder characters (like `%s`, `%d`, `%%`) or BBCode markup tags (like `[center]...[/center]`).
+Make sure to not edit or remove these in the resulting translated text.
 
 ## License
 Source code is licensed under MIT license.
