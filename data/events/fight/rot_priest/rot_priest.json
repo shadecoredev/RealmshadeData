@@ -1,0 +1,63 @@
+{
+	"name" : "rot_priest",
+	"type" : "fight",
+	"level_range_start" : 10,
+	"level_range_end" : 10,
+	"inventory" : {
+		"items": [
+		{
+			"name": "pestilence_staff",
+			"position": 0
+		},
+		{
+			"name": "ruby_ring",
+			"position": 144
+		},
+		{
+			"name": "green_skin",
+			"position": 17
+		},
+		{
+			"name": "green_skin",
+			"position": 19
+		},
+		{
+			"name": "ruby_ring",
+			"position": 32
+		},
+		{
+			"name": "silver_chestplate",
+			"position": 48
+		},
+		{
+			"name": "pestilence_robe",
+			"position": 97
+		},
+		{
+			"name": "purifying_potion",
+			"position": 67
+		},
+		{
+			"name": "pestilence_necklace",
+			"position": 96
+		},
+		{
+			"name": "green_skin",
+			"position": 131
+		},
+		{
+			"name": "green_skin",
+			"position": 129
+		},
+		{
+			"name": "vinecoil_poison_wand",
+			"position": 161
+		}
+	],
+		"width": 11,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Жрец Гнили"
+	}
+}

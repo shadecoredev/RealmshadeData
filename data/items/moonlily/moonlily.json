@@ -1,0 +1,21 @@
+{
+	"name" : "moonlily",
+	"width" : 2,
+	"height" : 2,
+
+	"tags" : [
+		"plant"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"purity_power" : 10,
+			"purity" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Луналилия"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name" : "storm_staff",
+	"width" : 1,
+	"height" : 5,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"shock_power" : 25,
+			"shock" : 12
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"shock" : 30
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Посох Бури"
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"name" : "ghost_fisherman",
+	"type" : "fight",
+	"level_range_start" : 4,
+	"level_range_end" : 6,
+	"inventory" : {
+		"items": [
+		{
+			"name": "reinforced_fishing_rod",
+			"position": 33
+		},
+		{
+			"name": "cleanseroot",
+			"position": 272
+		},
+		{
+			"name": "healstem",
+			"position": 257
+		},
+		{
+			"name": "gudgeon",
+			"position": 3
+		},
+		{
+			"name": "spectral_robe",
+			"position": 49
+		},
+		{
+			"name": "trout",
+			"position": 80
+		},
+		{
+			"name": "poisonleaf",
+			"position": 99
+		},
+		{
+			"name": "golden_dagger",
+			"position": 82
+		},
+		{
+			"name": "carp",
+			"position": 97
+		}
+
+	],
+		"width": 9,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Призрачный Рыбак"
+	}
+}

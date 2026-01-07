@@ -1,0 +1,25 @@
+{
+	"name" : "flare_staff",
+	"width" : 1,
+	"height" : 5,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"fire_power" : 25,
+			"fire" : 25
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"fire" : 25
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Посох Вспышки"
+	}
+}

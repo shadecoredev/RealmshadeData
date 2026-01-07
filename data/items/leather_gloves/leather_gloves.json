@@ -1,0 +1,19 @@
+{
+	"name" : "leather_gloves",
+	"width" : 2,
+	"height" : 1,
+	
+	"tags" : [
+		"apparel"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 25
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Кожаные Перчатки"
+	}
+}

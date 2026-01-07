@@ -1,0 +1,25 @@
+{
+	"name" : "soulfruit",
+	"width" : 1,
+	"height" : 1,
+	
+	"tags" : [
+		"food",
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 100,
+		},
+		{
+			"type" : "cooldown",
+			"charges" : 1,
+			"time" : 6,
+			"self_damage" : 50
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Душефрукт"
+	}
+}

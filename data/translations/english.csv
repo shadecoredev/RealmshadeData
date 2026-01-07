@@ -1,0 +1,336 @@
+,en_US
+LANGUAGE_NAME,English
+UI_TUTORIAL,Tutorial
+UI_PLAY,Play
+UI_SETTINGS,Settings
+UI_LANGUAGE,Language
+UI_SHADENOMICON,Shadenomicon
+UI_HALL_OF_FAME,Hall of Fame
+UI_PATCH_NOTES,Patch Notes
+UI_BACK,Back
+
+UI_LOADING,Loading...
+UI_MENU,Menu
+UI_CONTINUE,Continue
+UI_EXIT,Exit
+UI_RESTART,Restart
+UI_FEEDBACK,Feedback
+UI_ENTER_TITLE_HERE_OPTIONAL,Enter title... (optional)
+UI_TYPE_MESSAGE_HERE,Type a message here...
+UI_SEND,Send
+UI_SENT,Sent
+UI_GRAPHICS_SETTINGS,Graphics settings
+UI_FULLSCREEN_MODE,Fullscreen mode
+UI_BACKGROUND_MIST,Background mist
+UI_SCREEN_SHADER,Screen shader
+UI_FRACTIONAL_SCALING,Fractional scaling
+
+UI_AUDIO_SETTINGS,Audio settings
+UI_SOUND_VOLUME,Sound volume
+UI_ENABLE_MUSIC,Enable music
+UI_MUSIC_VOLUME,Music volume
+UI_MUFFLE_MUSIC_OUT_OF_COMBAT,Muffle music out of combat
+
+UI_ENTER_PLAYERNAME,Enter playername...
+UI_ENTER,Enter
+UI_RANDOMIZE,Randomize
+UI_ENTER_A_RANDOM_NAME,Enter a random name.
+
+UI_MUSIC,Music
+UI_TOGGLE_MUSIC_PLAYER,Toggle the music player.
+UI_LEVEL,Level
+UI_LEADERBOARD,Leaderboard
+UI_RANK,Rank
+UI_TOP_RANK,Top rank
+UI_GOLD_RANK,Gold rank
+UI_SILVER_RANK,Silver rank
+UI_IRON_RANK,Iron rank
+UI_COPPER_RANK,Copper rank
+UI_UPDATED,Updated
+
+UI_NO_PLAYER_RECORDS_FOUND,No player records found.
+UI_RUNS_PLAYED,Runs played
+UI_LEVELS_FINISHED,Levels finished
+UI_HIGHEST_LEVEL,Highest level
+UI_NO_PLAYER_DATA_FOUND,No player data found.
+UI_COMPLETE_RUN_TO_SEE_RESULTS,Complete a run to see the results.
+UI_TOP_RANK_WARNING_MSG,Warning: You are top rank! You cannot improve your ranking until someone beats you.
+
+UI_DESCRIPTION_MSG,All the items you have ever used in Realmshade.
+UI_FILTER,Filter...
+UI_SEARCH,Search
+UI_ITEMS,Items
+
+UI_LANGUAGE_DESCRIPTION_MSG,You can choose one of the supported languages below.
+
+UI_NEXT,Next
+UI_EXIT_EVENT_PREVIEW,Exit the event preview
+UI_VALOUR,Valour
+UI_INVENTORY,Inventory
+UI_STORAGE,Storage
+UI_TRASH,Trash
+UI_YOUR_CURRENT_LEVEL,Your current level
+UI_YOUR_CURRENT_LEVEL_MSG,Level determines the events and opponents you encounter. Highest level you reach will be your score on the leaderboard.
+UI_YOUR_CURRENT_VALOUR,Your current valour
+UI_YOUR_CURRENT_VALOUR_MSG,Losing valour fight removes 1 valour point. Your run ends when you lose all valour.
+UI_VALOUR_FIGHT_PREPARATION,Valour fight preparation
+UI_VALOUR_FIGHT_PREPARATION_MSG,Next fight can result in valor loss. Examine the opponent's items and make changes to your inventory before fight.
+UI_VALOUR_FIGHT,Valour fight
+UI_LEVEL_UP,Level up
+UI_LEVEL_UP_MSG,Once you finish this step, level up to %d.
+UI_LEVEL_UP_VALOUR_FIGHT_MSG,After completing a valour fight, level up to %d.
+UI_EVENT_CHOICE,Event choice
+UI_EVENT_CHOICE_MSG,Choose one event out of 3.
+UI_MONSTER_VALOUR_FIGHT,A valour fight against a monster %s. Defeat during this event results in valour loss.
+UI_TOP_RANK_VALOUR_FIGHT,Top rank valour fight
+UI_TOP_RANK_VALOUR_FIGHT_MSG,A fight against a top rank player %s. Defeat will result in a full valour loss!
+UI_VALOUR_FIGHT_MSG,A fight against a player %s. Defeat during this event results in valour loss.
+UI_EVENT_MSG,%s.
+UI_TAKE,Take
+UI_REROLL,Reroll
+UI_SWAP,Swap
+UI_CONSUMED_MSG,The rewards got consumed by the Shade!
+UI_SWAP_MSG,Take reward or swap it for the other one.
+UI_REROLL_MSG,Take reward or reroll to get a new one.
+UI_REROLL_CONSUME_CHANCE_MSG,%d%% chance to lose all rewards on the next reroll.
+UI_REWARD,Reward
+UI_ITEM_MOVE_MSG,[LMB] or [Shift]+[LMB] to move
+UI_FATIGUE_TIMER,Fatigue timer
+UI_FATIGUE_TIMER_MSG,When the timer runs out, each character starts losing hit points from fatigue at an ever increasing rate until either is defeated.
+UI_DEFEAT,Defeat. You gain no reward.
+UI_VALOUR_DEFEAT_MSG,Defeat. You gain no reward and lose 1 valor.
+UI_VALOUR_DEFEAT_PROTECTED_MSG,Defeat. You gain no reward. You are protected from valour loss.
+UI_VALOUR_DEPLETED_MSG,Valour is depleted. Restart?
+UI_VICTORY,Victory!
+UI_RUN_COMPLETED,Run completed.
+UI_GO_TO_TITLE_SCREEN,Go to title screen
+
+EVENT_FREE_REWARD,free reward
+EVENT_FIGHT,fight
+EVENT_WOODCUTTING_SPOT,woodcutting spot
+EVENT_MINING_SPOT,mining spot
+EVENT_FISHING_SPOT,fishing spot
+
+EVENT_NOT_ENOUGH_INGREDIENTS,Not enough ingredients!
+EVENT_NO_SUITABLE_TOOL,No suitable tool!
+
+
+TAG_MELEE,Melee
+TAG_MAGIC,Magic
+TAG_RANGED,Ranged
+TAG_EXPLOSIVE,Explosive
+TAG_PLANT,Plant
+TAG_CURRENCY,Currency
+TAG_GEM,Gem
+TAG_JEWELRY,Jewelry
+TAG_APPAREL,Apparel
+TAG_ARMOR,Armor
+TAG_RUNE,Rune
+TAG_FOOD,Food
+TAG_POTION,Potion
+TAG_FISHING_ROD,Fishing Rod
+TAG_PICKAXE,Pickaxe
+TAG_AXE,Axe
+
+TOOLTIP_UNKNOWN_ITEM,Unknown Item
+TOOLTIP_UNKNOWN_ITEM_MSG,Items are revealed after equipping them in the main inventory during a valour fight.
+
+TOOLTIP_EFFECT_DESCRIPTION,Effect description
+
+TOOLTIP_START,Start
+TOOLTIP_COOLDOWN,cooldown
+TOOLTIP_SECONDS,s
+TOOLTIP_WITH,with
+TOOLTIP_CHARGE,charge
+TOOLTIP_CHARGE_PLURAL,charges
+TOOLTIP_NO_EFFECT,No effect
+
+TOOLTIP_GAIN,Gain
+TOOLTIP_LOSE,Lose
+
+TOOLTIP_INFLICT,Inflict
+TOOLTIP_SUFFER,Suffer
+
+TOOLTIP_RESISTANCE_FROM,resistance from
+TOOLTIP_RESISTANCE_FROM_PLURAL,resistance from
+
+TOOLTIP_POWER_OF,power of
+TOOLTIP_POWER_OF_PLURAL,power of
+
+TOOLTIP_STEAL,steal
+TOOLTIP_STEAL_PLURAL,steal
+
+TOOLTIP_HEALTH,health
+TOOLTIP_HEALTH_PLURAL,health
+
+TOOLTIP_DAMAGE,damage
+TOOLTIP_DAMAGE_PLURAL,damage
+
+TOOLTIP_HEAL,heal
+TOOLTIP_HEAL_PLURAL,heal
+
+TOOLTIP_PURITY,purity
+TOOLTIP_PURITY_PLURAL,purity
+
+TOOLTIP_REGENERATION,regeneration
+TOOLTIP_REGENERATION_PLURAL,regeneration
+
+TOOLTIP_THORNS,thorns
+TOOLTIP_THORNS_PLURAL,thorns
+
+TOOLTIP_SWIFTNESS,swiftness
+TOOLTIP_SWIFTNESS_PLURAL,swiftness
+
+TOOLTIP_FURY,fury
+TOOLTIP_FURY_PLURAL,fury
+
+TOOLTIP_DOOM,doom
+TOOLTIP_DOOM_PLURAL,doom
+
+TOOLTIP_POISON,poison
+TOOLTIP_POISON_PLURAL,poison
+
+TOOLTIP_FIRE,fire
+TOOLTIP_FIRE_PLURAL,fire
+
+TOOLTIP_SHOCK,shock
+TOOLTIP_SHOCK_PLURAL,shock
+
+TOOLTIP_ACID,acid
+TOOLTIP_ACID_PLURAL,acid
+
+TOOLTIP_BLOCK,block
+TOOLTIP_BLOCK_PLURAL,block
+
+TOOLTIP_BARRIER,barrier
+TOOLTIP_BARRIER_PLURAL,barrier
+
+TOOLTIP_ABSORPTION,absorption
+TOOLTIP_ABSORPTION_PLURAL,absorption
+
+TOOLTIP_SHOCK_MSG,Inflict %s shock
+TOOLTIP_SHOCK_PLURAL_MSG,Inflict %s shock
+TOOLTIP_SELF_SHOCK_MSG,Suffer %s shock
+TOOLTIP_SELF_SHOCK_PLURAL_MSG,Suffer %s shock
+
+TOOLTIP_FIRE_MSG,Inflict %s fire
+TOOLTIP_FIRE_PLURAL_MSG,Inflict %s fire
+TOOLTIP_SELF_FIRE_MSG,Suffer %s fire
+TOOLTIP_SELF_FIRE_PLURAL_MSG,Suffer %s fire
+
+TOOLTIP_POISON_MSG,Inflict %s poison
+TOOLTIP_POISON_PLURAL_MSG,Inflict %s poison
+TOOLTIP_SELF_POISON_MSG,Suffer %s poison
+TOOLTIP_SELF_POISON_PLURAL_MSG,Suffer %s poison
+
+TOOLTIP_ACID_MSG,Inflict %s acid
+TOOLTIP_ACID_PLURAL_MSG,Inflict %s acid
+TOOLTIP_SELF_ACID_MSG,Suffer %s acid
+TOOLTIP_SELF_ACID_PLURAL_MSG,Suffer %s acid
+
+TOOLTIP_DOOM_MSG,Inflict %s doom
+TOOLTIP_DOOM_PLURAL_MSG,Inflict %s doom
+TOOLTIP_SELF_DOOM_MSG,Suffer %s doom
+TOOLTIP_SELF_DOOM_PLURAL_MSG,Suffer %s doom
+
+TOOLTIP_DAMAGE_MSG,Deal %s damage
+TOOLTIP_DAMAGE_PLURAL_MSG,Deal %s damage
+TOOLTIP_SELF_DAMAGE_MSG,Suffer %s damage
+TOOLTIP_SELF_DAMAGE_PLURAL_MSG,Suffer %s damage
+
+TOOLTIP_BLOCK_MSG,Gain %s block
+TOOLTIP_BLOCK_PLURAL_MSG,Gain %s block
+
+TOOLTIP_ABSORPTION_MSG,Gain %s absorption
+TOOLTIP_ABSORPTION_PLURAL_MSG,Gain %s absorption
+
+TOOLTIP_BARRIER_MSG,Gain %s maximum barrier
+TOOLTIP_BARRIER_PLURAL_MSG,Gain %s maximum barrier
+
+TOOLTIP_RESTORE_BARRIER_MSG,Restore %s barrier
+TOOLTIP_RESTORE_BARRIER_PLURAL_MSG,Restore %s barrier
+
+TOOLTIP_HEAL_MSG,Heal %s health
+TOOLTIP_HEAL_PLURAL_MSG,Heal %s health
+
+TOOLTIP_HEALTH_MSG,Gain %s health
+TOOLTIP_HEALTH_PLURAL_MSG,Gain %s health
+
+TOOLTIP_REGENERATION_MSG,Gain %s regeneration
+TOOLTIP_REGENERATION_PLURAL_MSG,Gain %s regeneration
+
+TOOLTIP_PURITY_MSG,Gain %s purity
+TOOLTIP_PURITY_PLURAL_MSG,Gain %s purity
+
+TOOLTIP_FURY_MSG,Gain %s fury
+TOOLTIP_FURY_PLURAL_MSG,Gain %s fury
+
+TOOLTIP_THORNS_MSG,Gain %s thorns
+TOOLTIP_THORNS_PLURAL_MSG,Gain %s thorns
+
+TOOLTIP_GAIN_SWIFTNESS_MSG,Gain %s swiftness
+TOOLTIP_GAIN_SWIFTNESS_PLURAL_MSG,Gain %s swiftness
+
+TOOLTIP_LOSE_SWIFTNESS_MSG,Lose %s swiftness
+TOOLTIP_LOSE_SWIFTNESS_PLURAL_MSG,Lose %s swiftness
+
+INFO_RESISTANCE_MSG,Resistance is a status effect that reduces incoming damage, inflicted ailments or status effects from a source according to a formula: [center]Received effect = Effect / (1 + Resistance/100)[/center]
+INFO_POWER_MSG,Power is a status effect that increases the specified effect by a percentage. Each point of power gives 1% increase.
+INFO_STEAL_MSG,Steal is an effect that subtracts a value from enemy resource and adds that amount to the item holder.
+INFO_HEALTH_MSG,Health is the main hit point pool. All characters start with 100 health. A character is defeated upon reaching 0 health.
+INFO_DAMAGE_MSG,Damage is an effect that subtracts a value from the enemy health and defenses.
+INFO_HEAL_MSG,Heal is an effect that restores health up to a maximum health value.
+INFO_PURITY_MSG,Purity is a status effect that removes random ailment and is depleted in the process. Each point of purity removes one point of ailment.
+INFO_REGENERATION_MSG,Regeneration is a status effect that restores hit points over time up to a maximum health value and decreases over time.
+INFO_THORNS_MSG,Thorns is a status effect that causes retaliatory hit point loss on every incoming damage hit.
+INFO_SWIFTNESS_MSG,Swiftness is a status effect that adds a delay before the enemy actions begin (0.05s per 1). Negative swiftness has inverted effect.
+INFO_FURY_MSG,Fury is a status effect that adds a value to all damage effects.
+INFO_DOOM_MSG,Doom is a status effect that removes all health on afflicted target when doom points reach current health value.
+INFO_POISON_MSG,Poison is an ailment that causes hit point loss over time.
+INFO_FIRE_MSG,Fire is an ailment that causes hit point loss over time and decreases over time.
+INFO_SHOCK_MSG,Shock is an ailment that upon affliction substracts hit points equal to total shock on target and decreases over time. If multiple instances of shock activate simultaniously, each shock is applied separately in order from lowest to highest.
+INFO_ACID_MSG,Acid is an ailment that causes hit point loss over time and decreases over time. Acid doesn't bypass defenses and has double effectiveness against them, but half as effective against health.
+INFO_BLOCK_MSG,Block is a defense that takes damage before health. Block can be stacked infinitely. Block doesn't defend from any ailments except acid.
+INFO_BARRIER_MSG,Barrier is a defense that takes damage before health. Barrier can only be restored up to a maximum value. Barrier doesn't defend from any ailments except acid and shock.
+INFO_ABSORPTION_MSG,Absorption is a defense that takes hit point loss before health and decreases over time.
+INFO_CHARGES_MSG,Charges is a number of times an item can activate.
+
+TUTORIAL_HOLD_RIGHT_CLICK_TO_CONTINUE,Hold [Right Mouse Button] to continue
+TUTORIAL_TUTORIAL_MSG,This tutorial will teach you the basics of Realmshade.
+TUTORIAL_SETTINGS_MSG,You can access the settings at any time by pressing [Esc] or clicking this button in bottom right.
+TUTORIAL_INVENTORY_MSG,Inventory holds the items that will be used during combat.
+TUTORIAL_STORAGE_MSG,Storage holds any times that don't fit into your main inventory. It has the same size as your inventory.
+TUTORIAL_TRASH_MSG,Trash container is hidden by default and only shows while you are dragging an item. Any items left in trash will be removed when you leave an event.
+TUTORIAL_EVENT_TRACK,Event track
+TUTORIAL_EVENT_TRACK_MSG,Below you can see your current level progress. Generally, each level consists of two choose-from-three events followed by valour fight. The exception is level 0, it doesn't have a valour fight. Hover over an event icon or click on it to view more information.
+TUTORIAL_LEVEL_MSG,Level determines what events and opponents you get.
+TUTORIAL_VALOUR_MSG,You start the game with 3 valour points. You lose 1 valour point after defeat during valour fight. Valour fight is a fight against a player at the end of each level. After losing all valour you lose all your items and reset to level 0.
+TUTORIAL_NEXT_EVENT,Next event
+TUTORIAL_NEXT_EVENT_MSG,This button lets you proceed towards the next event. Alternatively, you can press [Spacebar]. You can't proceed to the next event while you have any unfinished actions during an event.
+TUTORIAL_EVENT_CHOICE,Event choice
+TUTORIAL_EVENT_CHOICE_MSG,This is the event selection menu. Pressing an event button reveals the event preview above.
+TUTORIAL_EVENT_CHOICE_CONTINUE_MSG,Pick an event and press "Next" to continue
+TUTORIAL_ITEMS,Items
+TUTORIAL_ITEMS_MSG,Items are obtained by completing events and fights. Hovering over an item reveals the description. You can hold [ALT] to get the additional effect description.
+TUTORIAL_ITEMS_CONTINUE_MSG,Hold [Alt] while hovering mouse over any item to continue
+TUTORIAL_ITEM_INTERACTION,Item interaction
+TUTORIAL_ITEM_INTERACTION_MSG,Hold [Left Mouse Button] over a shining item to start dragging it and then press [Right Mouse Button] or [R] to rotate it. Items cover the container grid in a rectangular pattern, can't extend beyond the bounds and must be placed over empty slots.
+TUTORIAL_ITEM_INTERACTION_CONTINUE_MSG,Fit the item into your main inventory, then press "Next"
+TUTORIAL_SECOND_EVENT,Second event
+TUTORIAL_SECOND_EVENT_MSG,You reached the second event choice. Finish this event.
+TUTORIAL_SECOND_EVENT_CONTINUE_MSG,Pick an event and proceed with the rewards to the next level.
+TUTORIAL_REROLLING,Rerolling
+TUTORIAL_REROLLING_MSG,When obtaining an item, you always get a choice of rerolling that item with a new unique one from the same reward pool. Be ware that there is an increasing chance to fail the reroll and lose all rewards.
+TUTORIAL_REROLLING_CONTINUE_MSG,Take or reroll this reward and press "Next" to continue
+TUTORIAL_LEVEL_UP,Level up
+TUTORIAL_LEVEL_UP_MSG,You finished the level 0. You will start encountering monster events that are indicated by a red color. They reward you with one of monster's items when finished.
+TUTORIAL_LEVEL_UP_CONTINUE_MSG,Finish any event to continue
+TUTORIAL_LAST_EVENT,Last event
+TUTORIAL_LAST_EVENT_MSG,It's the last event before valour fight. Pick an event and finish it.
+TUTORIAL_LAST_EVENT_CONTINUE_MSG,Pick and finish an event to continue
+TUTORIAL_VALOUR_FIGHT_PREPARATION,Valour fight preparation
+TUTORIAL_VALOUR_FIGHT_PREPARATION_MSG,At the end of each level, you are matched against a player. If you lose that fight, you will lose 1 valour point. Fight preparation step lets you examine the enemy inventory and swap any items in your storage.
+TUTORIAL_VALOUR_FIGHT_PREPARATION_CONTINUE_MSG,Press "Next" to continue
+TUTORIAL_TUTORIAL_END,Tutorial end
+TUTORIAL_TUTORIAL_END_MSG,The tutorial is over. You can continue playing normally until you finish this run or start a new one by exiting through [Esc]>Exit button. If you found any parts of the game unclear or want to give any feedback, use [Esc]>Feedback tab.
+TUTORIAL_TUTORIAL_END_FINISH_MSG,Hold [Right Mouse Button] to finish

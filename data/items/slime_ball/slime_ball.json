@@ -1,0 +1,21 @@
+{
+	"name" : "slime_ball",
+	"width" : 3,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 150
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"self_acid" : 30,
+			"acid" : 30,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Шар Слизи"
+	}
+}

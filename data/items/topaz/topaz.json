@@ -1,0 +1,19 @@
+{
+	"name" : "topaz",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"gem"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"fire_resistance" : 50,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Топаз"
+	}
+}

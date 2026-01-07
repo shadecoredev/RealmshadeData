@@ -1,0 +1,19 @@
+{
+	"name" : "spirit_necklace",
+	"width" : 2,
+	"height" : 1,
+
+	"tags" : [
+		"jewelry"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier_power" : 25
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Ожерелье Души"
+	}
+}

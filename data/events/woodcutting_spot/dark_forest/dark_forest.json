@@ -1,0 +1,21 @@
+{
+	"name" : "dark_forest",
+	"type" : "woodcutting_spot",
+	"level_range_start" : 2,
+	"level_range_end" : 5,
+	"results" : [
+		["branch", 1],
+		["stick", 3],
+		["wood", 5],
+		["apple", 1],
+		["darkwood", 5],
+		["darkfruit", 1],
+		["twisted_branch", 1],
+		["soulbark", 1],
+		["soulwood", 5],
+		["soulfruit", 1]
+	],
+	"translation" : {
+		"ru_RU" : "Темный Лес"
+	}
+}

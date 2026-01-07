@@ -1,0 +1,67 @@
+{
+	"name" : "burning_archmage",
+	"type" : "fight",
+	"level_range_start" : 9,
+	"level_range_end" : 9,
+	"inventory" : {
+		"items": [
+		{
+			"name": "golden_greaves",
+			"position": 51
+		},
+		{
+			"name": "spectral_robe",
+			"position": 18
+		},
+		{
+			"name": "magic_hat",
+			"position": 16
+		},
+		{
+			"name": "blazelash_fire_wand",
+			"position": 0
+		},
+		{
+			"name": "flare_necklace",
+			"position": 48
+		},
+		{
+			"name": "fire_wand",
+			"position": 340
+		},
+		{
+			"name": "blaze_ring",
+			"position": 4
+		},
+		{
+			"name": "ruby_ring",
+			"position": 115
+		},
+		{
+			"name": "oracle_magic_orb",
+			"position": 49
+		},
+		{
+			"name": "purifying_potion",
+			"position": 82
+		},
+		{
+			"name": "fire_spellbook",
+			"position": 80
+		},
+		{
+			"name": "fire_wand",
+			"position": 112
+		},
+		{
+			"name": "flare_staff",
+			"position": 128
+		}
+	],
+		"width": 9,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Пылающий Архимаг"
+	}
+}

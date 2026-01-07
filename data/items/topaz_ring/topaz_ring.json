@@ -1,0 +1,19 @@
+{
+	"name" : "topaz_ring",
+	"width" : 1,
+	"height" : 1,
+	
+	"tags" : [
+		"jewelry"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"fire_resistance" : 100
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Кольцо с Топазом"
+	}
+}

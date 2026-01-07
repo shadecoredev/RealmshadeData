@@ -1,0 +1,29 @@
+{
+	"name" : "soulsiphon_wooden_fishing_rod",
+	"width" : 1,
+	"height" : 4,
+	
+	"tags" : [
+		"magic",
+		"fishing_rod"
+	],
+	
+	"tag_values" : {
+		"fishing" : 4
+	},
+
+	"effects" : [
+		{
+			"type" : "start",
+			"purity_steal" : 25
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"purity" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Поглотитель Душ Деревянная Удочка"
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"name" : "fire_dragon",
+	"type" : "fight",
+	"level_range_start" : 10,
+	"level_range_end" : 10,
+	"inventory" : {
+		"items": [
+		{
+			"name": "dragon_wing",
+			"position": 32
+		},
+		{
+			"name": "dragon_wing",
+			"position": 112
+		},
+		{
+			"name": "prismatic_scales",
+			"position": 34
+		},
+		{
+			"name": "prismatic_scales",
+			"position": 67
+		},
+		{
+			"name": "spirit_necklace",
+			"position": 66
+		},
+		{
+			"name": "prismatic_scales",
+			"position": 98
+		},
+		{
+			"name": "prismatic_scales",
+			"position": 131
+		},
+		{
+			"name": "prismatic_scales",
+			"position": 162
+		},
+		{
+			"name": "fire_dragon_head",
+			"position": 258
+		},
+		{
+			"name": "prismatic_scales",
+			"position": 0
+		},
+		{
+			"name": "ruby_necklace",
+			"position": 130
+		}
+	],
+		"width": 12,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Огненный Дракон"
+	}
+}

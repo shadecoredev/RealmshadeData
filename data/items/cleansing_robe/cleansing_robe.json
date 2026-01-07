@@ -1,0 +1,26 @@
+{
+	"name" : "cleansing_robe",
+	"width" : 2,
+	"height" : 3,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 90,
+			"purity" : 30
+		},
+		{
+			"type" : "cooldown",
+			"time" : 4,
+			"restore_barrier_percent" : 10,
+			"purity" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Платье Очищения"
+	}
+}

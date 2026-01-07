@@ -1,0 +1,51 @@
+{
+	"name" : "vampire_knight",
+	"type" : "fight",
+	"level_range_start" : 5,
+	"level_range_end" : 7,
+	"inventory" : {
+		"items": [
+		{
+			"name": "bone",
+			"position": 4
+		},
+		{
+			"name": "ruby_ring",
+			"position": 3
+		},
+		{
+			"name": "bloodthirst_copper_sword",
+			"position": 17
+		},
+		{
+			"name": "copper_chestplate",
+			"position": 34
+		},
+		{
+			"name": "bone",
+			"position": 33
+		},
+		{
+			"name": "vampire_fangs",
+			"position": 32
+		},
+		{
+			"name": "bloodthirst_copper_sword",
+			"position": 81
+		},
+		{
+			"name": "bone",
+			"position": 84
+		},
+		{
+			"name": "emerald_ring",
+			"position": 99
+		}
+	],
+		"width": 7,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Вампир Рыцарь"
+	}
+}

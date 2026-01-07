@@ -1,0 +1,21 @@
+{
+	"name" : "vitality_potion",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 4,
+			"time" : 5,
+			"health" : 60
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Зелье Выносливости"
+	}
+}

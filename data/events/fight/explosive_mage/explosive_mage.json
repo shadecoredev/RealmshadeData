@@ -1,0 +1,87 @@
+{
+	"name" : "explosive_mage",
+	"type" : "fight",
+	"level_range_start" : 9,
+	"level_range_end" : 9,
+	"inventory" : {
+		"items": [
+		{
+			"name": "magic_boots",
+			"position": 99
+		},
+		{
+			"name": "spirit_necklace",
+			"position": 114
+		},
+		{
+			"name": "magic_hat",
+			"position": 80
+		},
+		{
+			"name": "spectral_robe",
+			"position": 66
+		},
+		{
+			"name": "bomb",
+			"position": 32
+		},
+		{
+			"name": "bomb",
+			"position": 1
+		},
+		{
+			"name": "bomb",
+			"position": 34
+		},
+		{
+			"name": "bomb",
+			"position": 3
+		},
+		{
+			"name": "bomb",
+			"position": 162
+		},
+		{
+			"name": "bomb",
+			"position": 131
+		},
+		{
+			"name": "dynamite_stick",
+			"position": 64
+		},
+		{
+			"name": "dynamite_stick",
+			"position": 292
+		},
+		{
+			"name": "dynamite_stick",
+			"position": 420
+		},
+		{
+			"name": "ruby_ring",
+			"position": 98
+		},
+		{
+			"name": "dynamite_stick",
+			"position": 112
+		},
+		{
+			"name": "bomb",
+			"position": 128
+		},
+		{
+			"name": "bomb",
+			"position": 160
+		},
+		{
+			"name": "dynamite_stick",
+			"position": 256
+		}
+	],
+		"width": 12,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Взрывной Маг"
+	}
+}

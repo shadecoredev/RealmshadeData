@@ -1,0 +1,35 @@
+{
+	"name" : "pyromaniac",
+	"type" : "fight",
+	"level_range_start" : 5,
+	"level_range_end" : 6,
+	"inventory" : {
+		"items": [
+		{
+			"name": "fire_wand",
+			"position": 0
+		},
+		{
+			"name": "magic_hat",
+			"position": 16
+		},
+		{
+			"name": "spectral_robe",
+			"position": 18
+		},
+		{
+			"name": "ruby",
+			"position": 49
+		},
+		{
+			"name": "blaze_ring",
+			"position": 51
+		}
+	],
+		"width": 5,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Пироманьяк"
+	}
+}

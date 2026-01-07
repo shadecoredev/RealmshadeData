@@ -1,0 +1,19 @@
+{
+	"name" : "emerald",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"gem"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"poison_resistance" : 50,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Изумруд"
+	}
+}

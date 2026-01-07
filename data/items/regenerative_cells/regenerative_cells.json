@@ -1,0 +1,16 @@
+{
+	"name" : "regenerative_cells",
+	"width" : 2,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"regeneration" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Регенеративные Клетки"
+	}
+}

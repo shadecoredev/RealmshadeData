@@ -1,0 +1,16 @@
+{
+	"name" : "green_skin",
+	"width" : 2,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 30,
+			"damage_resistance" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Зеленая Кожа"
+	}
+}

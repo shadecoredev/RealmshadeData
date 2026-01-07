@@ -1,0 +1,22 @@
+{
+	"name" : "evil_potion",
+	"width" : 2,
+	"height" : 2,
+
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 7,
+			"charges" : 1,
+			"health" : 666,
+			"self_doom" : 666,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Зелье Зла"
+	}
+}

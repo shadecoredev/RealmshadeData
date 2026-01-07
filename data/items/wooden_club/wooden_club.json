@@ -1,0 +1,20 @@
+{
+	"name" : "wooden_club",
+	"width" : 2,
+	"height" : 3,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 7,
+			"damage" : 45
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Деревянная Дубина"
+	}
+}

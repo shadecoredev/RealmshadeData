@@ -1,0 +1,39 @@
+{
+	"name" : "skeleton_wizard",
+	"type" : "fight",
+	"level_range_start" : 4,
+	"level_range_end" : 5,
+	"inventory" : {
+		"items": [
+		{
+			"name": "shock_wand",
+			"position": 0
+		},
+		{
+			"name": "skull",
+			"position": 16
+		},
+		{
+			"name": "magic_boots",
+			"position": 18
+		},
+		{
+			"name": "shock_wand",
+			"position": 48
+		},
+		{
+			"name": "bone",
+			"position": 51
+		},
+		{
+			"name": "static_ring",
+			"position": 66
+		}
+	],
+		"width": 5,
+		"height": 4
+	},
+	"translation" : {
+		"ru_RU" : "Скелет Маг"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name" : "alchemy_lab",
+	"type" : "crafting_station",
+	"level_range_start" : 3,
+	"recipes" : [
+		"cleanseroot+healstem=restoration_potion",
+		"nasty_skin+cleanseroot=raw_hide",
+		
+		"vile_meat+cleanseroot=cooked_steak",
+		"vile_meat+embers=cooked_steak",
+		"vile_meat+torch=cooked_steak",
+		"vile_meat+branch=cooked_steak",
+		"vile_meat+stick=cooked_steak",
+		"vile_meat+wood=cooked_steak",
+		
+		"gudgeon+healstem=healing_potion",
+		"trout+regenerative_cells=regeneration_potion",
+		"vial_of_acid+poisonleaf=toxic_concoction",
+		"cleanseroot+moonlily=purifying_potion",
+		"carp+nasty_skin=vitality_potion",
+		"prismatic_scales+healstem=magic_potion",
+		"darkfruit+carp=evil_potion"
+	],
+	"translation" : {
+		"ru_RU" : "Алхимическая Лаборатория"
+	}
+}

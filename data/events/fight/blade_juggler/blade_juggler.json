@@ -1,0 +1,72 @@
+{
+	"name" : "blade_juggler",
+	"type" : "fight",
+	"level_range_start" : 8,
+	"level_range_end" : 9,
+	"inventory" : {
+		"items": [
+		{
+			"name": "silver_dagger",
+			"position": 356
+		},
+		{
+			"name": "copper_greaves",
+			"position": 67
+		},
+		{
+			"name": "copper_chestplate",
+			"position": 64
+		},
+		{
+			"name": "copper_helmet",
+			"position": 32
+		},
+		{
+			"name": "silver_dagger",
+			"position": 274
+		},
+		{
+			"name": "silver_dagger",
+			"position": 259
+		},
+		{
+			"name": "silver_dagger",
+			"position": 292
+		},
+		{
+			"name": "silver_dagger",
+			"position": 387
+		},
+		{
+			"name": "emerald_ring",
+			"position": 51
+		},
+		{
+			"name": "ruby_ring",
+			"position": 99
+		},
+		{
+			"name": "silver_dagger",
+			"position": 370
+		},
+		{
+			"name": "silver_dagger",
+			"position": 144
+		},
+		{
+			"name": "silver_dagger",
+			"position": 0
+		},
+		{
+			"name": "magic_orb",
+			"position": 112
+		}
+
+	],
+		"width": 10,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Жонглер Лезвиями"
+	}
+}

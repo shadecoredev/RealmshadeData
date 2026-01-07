@@ -1,0 +1,71 @@
+{
+	"name" : "witch_hunter",
+	"type" : "fight",
+	"level_range_start" : 6,
+	"level_range_end" : 7,
+	"inventory" : {
+		"items": [
+		{
+			"name": "mindcage_copper_helmet",
+			"position": 64
+		},
+		{
+			"name": "leather_chestplate",
+			"position": 50
+		},
+		{
+			"name": "crossbow",
+			"position": 256
+		},
+		{
+			"name": "crossbow",
+			"position": 352
+		},
+		{
+			"name": "silver_dagger",
+			"position": 130
+		},
+		{
+			"name": "silver_dagger",
+			"position": 114
+		},
+		{
+			"name": "amethyst_ring",
+			"position": 98
+		},
+		{
+			"name": "emerald_ring",
+			"position": 99
+		},
+		{
+			"name": "topaz_ring",
+			"position": 34
+		},
+		{
+			"name": "aquamarine_ring",
+			"position": 35
+		},
+		{
+			"name": "purifying_potion",
+			"position": 2
+		},
+		{
+			"name": "vile_meat",
+			"position": 100
+		},
+		{
+			"name": "vile_meat",
+			"position": 20
+		},
+		{
+			"name": "restoration_potion",
+			"position": 48
+		}
+	],
+		"width": 9,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Охотник на Ведьм"
+	}
+}

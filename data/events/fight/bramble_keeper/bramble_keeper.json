@@ -1,0 +1,39 @@
+{
+	"name" : "bramble_keeper",
+	"type" : "fight",
+	"level_range_start" : 6,
+	"level_range_end" : 8,
+	"inventory" : {
+		"items": [
+		{
+			"name": "spikeward_copper_chestplate",
+			"position": 16
+		},
+		{
+			"name": "iron_sword",
+			"position": 0
+		},
+		{
+			"name": "iron_greaves",
+			"position": 19
+		},
+		{
+			"name": "copper_shield",
+			"position": 65
+		},
+		{
+			"name": "copper_dagger",
+			"position": 320
+		},
+		{
+			"name": "aquamarine_ring",
+			"position": 51
+		}
+	],
+		"width": 6,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Хранитель Ежевики"
+	}
+}

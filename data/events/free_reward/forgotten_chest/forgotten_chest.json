@@ -1,0 +1,17 @@
+{
+	"name" : "forgotten_chest",
+	"type" : "free_reward",
+	"level_range_start" : 0,
+	"level_range_end" : 1,
+	"rewards" : [
+		"copper_sword",
+		"leather_chestplate",
+		"ruby",
+		"emerald",
+		"topaz",
+		"wooden_fishing_rod"
+	],
+	"translation" : {
+		"ru_RU" : "Забытый Сундук"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name" : "pestilence_staff",
+	"width" : 1,
+	"height" : 5,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"poison_power" : 25,
+			"poison" : 15
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"poison" : 15
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Посох Мора"
+	}
+}

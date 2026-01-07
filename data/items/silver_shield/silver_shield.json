@@ -1,0 +1,23 @@
+{
+	"name" : "silver_shield",
+	"width" : 2,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"thorns_resistance" : 100,
+			"barrier" : 50,
+			"block" : 50
+		},
+		{
+			"type" : "cooldown",
+			"time" : 4,
+			"restore_barrier" : 50,
+			"block" : 50
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Серебряный Щит"
+	}
+}

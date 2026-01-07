@@ -1,0 +1,306 @@
+,ru_RU
+LANGUAGE_NAME,Русский
+UI_TUTORIAL,Обучение
+UI_PLAY,Играть
+UI_SETTINGS,Настройки
+UI_LANGUAGE,Язык
+UI_SHADENOMICON,Тененомикон
+UI_HALL_OF_FAME,Зал славы
+UI_PATCH_NOTES,Обновления
+UI_BACK,Назад
+
+UI_LOADING,Загрузка...
+UI_MENU,Меню
+UI_CONTINUE,Продолжить
+UI_EXIT,Выход
+UI_RESTART,Рестарт
+UI_FEEDBACK,Обратная связь
+UI_ENTER_TITLE_HERE_OPTIONAL,Введите заголовок... (необязательно)
+UI_TYPE_MESSAGE_HERE,Введите сообщение...
+UI_SEND,Отправить
+UI_SENT,Отправлено
+UI_GRAPHICS_SETTINGS,Настройки графики
+UI_FULLSCREEN_MODE,Полноэкранный режим
+UI_BACKGROUND_MIST,Фоновый туман
+UI_SCREEN_SHADER,Эффект экрана
+UI_FRACTIONAL_SCALING,Дробное масштабирование
+
+UI_AUDIO_SETTINGS,Настройки аудио
+UI_SOUND_VOLUME,Громкость звуков
+UI_ENABLE_MUSIC,Включить музыку
+UI_MUSIC_VOLUME,Громкость музыки
+UI_MUFFLE_MUSIC_OUT_OF_COMBAT,Заглушить музыку вне боя
+
+UI_ENTER_PLAYERNAME,Введите имя игрока...
+UI_ENTER,Вход
+UI_RANDOMIZE,Случайно
+UI_ENTER_A_RANDOM_NAME,Выбрать случайное имя.
+
+UI_MUSIC,Музыка
+UI_TOGGLE_MUSIC_PLAYER,Вкл./выкл. музыку.
+UI_LEVEL,Уровень
+UI_LEADERBOARD,Таблица лидеров
+UI_RANK,Ранг
+UI_TOP_RANK,Высший ранг
+UI_GOLD_RANK,Золотой ранг
+UI_SILVER_RANK,Серебрянный ранг
+UI_IRON_RANK,Железный ранг
+UI_COPPER_RANK,Медный ранг
+UI_UPDATED,Обновлено
+
+UI_NO_PLAYER_RECORDS_FOUND,Не найдено записей об игроках.
+UI_RUNS_PLAYED,Число забегов
+UI_LEVELS_FINISHED,Пройдено уровней
+UI_HIGHEST_LEVEL,Высший уровень
+UI_NO_PLAYER_DATA_FOUND,Не найдена информация об игроке.
+UI_COMPLETE_RUN_TO_SEE_RESULTS,Завершите забег чтобы посмотреть информацию.
+UI_TOP_RANK_WARNING_MSG,Внимание: У вас высший ранг! Вы не сможете улучшить свой рейтинг, пока вас кто-нибудь не победит.
+
+UI_DESCRIPTION_MSG,Все предметы, которые вы когда-либо использовали в Realmshade.
+UI_FILTER,Фильтр...
+UI_SEARCH,Поиск
+UI_ITEMS,Предметы
+
+UI_LANGUAGE_DESCRIPTION_MSG,Вы можете выбрать один из поддерживаемых языков ниже.
+
+UI_NEXT,Далее
+UI_EXIT_EVENT_PREVIEW,Выйти из предпросмотра события
+UI_VALOUR,Доблесть
+UI_INVENTORY,Инвентарь
+UI_STORAGE,Хранилище
+UI_TRASH,Мусор
+UI_YOUR_CURRENT_LEVEL,Текущий уровень
+UI_YOUR_CURRENT_LEVEL_MSG,Уровень определяет события и противников, с которыми вы столкнетесь. Максимально достигнутый вами уровень будет определять ваш результат в таблице лидеров.
+UI_YOUR_CURRENT_VALOUR,Текущая доблесть
+UI_YOUR_CURRENT_VALOUR_MSG,Проигрыш в поединке за доблесть отнимает 1 очко доблести. Ваш забег заканчивается, когда вы теряете все очки доблести.
+UI_VALOUR_FIGHT_PREPARATION,Подготовка к бою за доблесть
+UI_VALOUR_FIGHT_PREPARATION_MSG,Следующий бой может привести к потере доблести. Перед боем осмотрите предметы противника и внесите изменения в свой инвентарь.
+UI_VALOUR_FIGHT,Бой доблести
+UI_LEVEL_UP,Повышение уровня
+UI_LEVEL_UP_MSG,После завершения этого шага повысьте свой уровень до %d.
+UI_LEVEL_UP_VALOUR_FIGHT_MSG,После завершения боя за доблесть повысьте свой уровень до %d.
+UI_EVENT_CHOICE,Выбор события
+UI_EVENT_CHOICE_MSG,Выберите одно событие из трех.
+UI_MONSTER_VALOUR_FIGHT,Битва доблести с монстром %s. Поражение во время этого события приводит к потере доблести.
+UI_TOP_RANK_VALOUR_FIGHT,Бой доблести с оппонентом высшего ранга
+UI_TOP_RANK_VALOUR_FIGHT_MSG,Бой доблести против игрока высшего ранга %s. Поражение приведет к полной потере доблести!
+UI_VALOUR_FIGHT_MSG,Бой против игрока %s. Поражение во время этого приводит к потере доблести.
+UI_EVENT_MSG,%s.
+UI_TAKE,Взять
+UI_REROLL,Перебросить
+UI_SWAP,заменить
+UI_CONSUMED_MSG,Награда была уничтожена Тенью!
+UI_SWAP_MSG,Возьмите награду или замените ее.
+UI_REROLL_MSG,Возьмите награду или перебросьте ее.
+UI_REROLL_CONSUME_CHANCE_MSG,%d%% шанс потерять все награды при перебросе.
+UI_REWARD,Награда
+UI_ITEM_MOVE_MSG,[ЛКМ] или [Shift]+[ЛКМ] чтобы переместить
+UI_FATIGUE_TIMER,Таймер усталости
+UI_FATIGUE_TIMER_MSG,Когда этот таймер истечет, каждый персонаж начнет терять очки здоровья из-за усталости с постоянно возрастающей скоростью, пока один не будет побежден.
+UI_DEFEAT,Поражение. Вы не получаете награду.
+UI_VALOUR_DEFEAT_MSG,Поражение. Вы не получаете награду и теряете 1 очко доблести.
+UI_VALOUR_DEFEAT_PROTECTED_MSG,Поражение. Вы не получаете награду. Вы защищены от потери доблести.
+UI_VALOUR_DEPLETED_MSG,Доблесть истощена. Начать заново?
+UI_VICTORY,Победа!
+UI_RUN_COMPLETED,Забег завершен.
+UI_GO_TO_TITLE_SCREEN,Выйти в титульный экран
+UI_NO_OPPONENTS_MSG,It seems there are no more opponents left. Your progress is saved.
+
+UI_PROCEED,Proceed
+UI_VALOUR_BONUS_MSG,Get valour protection for 3 levels
+UI_HATCHET_BONUS_MSG,Get a Bone Hatchet
+UI_PICKAXE_BONUS_MSG,Get a Bone Pickaxe
+UI_FISHING_ROD_BONUS_MSG,Get a Bone Fishing Rod
+UI_UNWORTHY_BONUS_MSG,Finish a fight at level 3 to be eligible to gain a reward at the start of your next run.
+UI_WORTHY_BONUS_MSG,The Shade has deemed you worthy. Choose one reward:
+
+EVENT_FREE_REWARD,бесплатная награда
+EVENT_FIGHT,сражение
+EVENT_WOODCUTTING_SPOT,место вырубки леса
+EVENT_MINING_SPOT,место добычи руды
+EVENT_FISHING_SPOT,место рабной ловли
+
+EVENT_NOT_ENOUGH_INGREDIENTS,Не достаточно ингридиентов!
+EVENT_NO_SUITABLE_TOOL,Нет подходящего инструмента!
+
+EVENT_CRAFT_OR_SEARCH_MSG,Choose to spend your time crafting or searching the crafting station surroundings for ingredients.
+EVENT_CRAFT_WITH_AVAILABLE_ITEMS,Craft with available items
+EVENT_SEARCH_FOR_NEW_INGREDIENTS,Search for new ingredients
+EVENT_NOT_ENOUGH_INGREDIENTS_MSG,Not enough ingredients to craft at the %s.
+EVENT_AVAILABLE_CRAFTING_RESULT,Available crafting result:
+EVENT_AVAILABLE_CRAFTING_RESULT_PLURAL,Available crafting results:
+EVENT_NOT_ABLE_TO_CRAFT_WITH_THIS_MSG,Not able to craft anything with this at the %s.
+EVENT_ADD_SECOND_ITEM_TO_CRAFT_THIS,Add a second item to craft this:
+EVENT_ADD_SECOND_ITEM_TO_CRAFT_THIS_PLURAL,Add a second item to craft one of these:
+EVENT_INVALID_RECIPE_MSG,This is not a valid recipe at the %s.
+EVENT_TAKE_THE_CRAFTING_RESULT,Take the crafting result:
+
+
+EVENT_MOVE_A_TOOl_MSG,Move a tool item marked by a star into the slot to begin gathering.
+EVENT_COLLECT_YOUR_TOOL_MSG,Collect your tool and\nany gathered materials.
+EVENT_CHANCE_TO_GATHER,Chance to gather: %d%%
+EVENT_BEGIN,Begin
+
+EVENT_GATHER_OR_SEARCH_MSG,Choose to spend your time gathering or searching the surroundings for resources.
+EVENT_GATHER_USING_TOOL,Gather using a tool
+EVENT_SEARCH_FOR_RESOURCES,Search for resources
+
+EVENT_PULL_GAUGE_MSG,Press the Pull button to increase the gauge.
+EVENT_PRESS_CATCH_MSG,Press the Catch button when the gauge is close to the line
+EVENT_PULL,Pull
+EVENT_CATCH,Catch
+
+EVENT_PRESS_WHEN_GAUGE_FILLED_MSG,Press the button when the gauge is filled. You have 3 attempts.
+EVENT_DIG,Dig
+
+EVENT_PRESS_WHEN_GAUGE_IN_MIDDLE_MSG,Press the button when the gauge is in a middle. You have 3 attempts.
+EVENT_CUT,Cut
+
+TAG_MELEE,Ближний бой
+TAG_MAGIC,Магическое
+TAG_RANGED,Дальний бой
+TAG_EXPLOSIVE,Взрывное
+TAG_PLANT,Растение
+TAG_CURRENCY,Валюта
+TAG_GEM,Самоцвет
+TAG_JEWELRY,Драгоценность
+TAG_APPAREL,Одежда
+TAG_ARMOR,Броня
+TAG_RUNE,Руна
+TAG_FOOD,Еда
+TAG_POTION,Зелье
+TAG_FISHING_ROD,Удочка
+TAG_PICKAXE,Кирка
+TAG_AXE,Топор
+
+TOOLTIP_UNKNOWN_ITEM,Неизвестный Предмет
+TOOLTIP_UNKNOWN_ITEM_MSG,Предметы открываются после помещения их в основной инвентарь во время доблестного боя.
+
+TOOLTIP_EFFECT_DESCRIPTION,Описание эффектов
+
+TOOLTIP_START,Начало боя
+TOOLTIP_COOLDOWN,перезарядка
+TOOLTIP_SECONDS,с
+TOOLTIP_WITH,с
+TOOLTIP_CHARGE,зарядом
+TOOLTIP_CHARGE_PLURAL,зарядами
+TOOLTIP_NO_EFFECT,Нет эффекта
+
+TOOLTIP_GAIN,Дает
+TOOLTIP_LOSE,Забирает
+
+TOOLTIP_INFLICT,Наносит
+TOOLTIP_SUFFER,Причиняет Вам
+
+TOOLTIP_RESISTANCE_FROM,сопротивления эффекту
+TOOLTIP_POWER_OF,силы эфффекта
+TOOLTIP_STEAL,крадет
+
+TOOLTIP_HEALTH,здоровье
+TOOLTIP_DAMAGE,урон
+TOOLTIP_HEAL,лечение
+TOOLTIP_PURITY,очищение
+TOOLTIP_REGENERATION,регенерация
+TOOLTIP_THORNS,шипы
+TOOLTIP_SWIFTNESS,скорость
+TOOLTIP_FURY,ярость
+TOOLTIP_DOOM,гибель
+TOOLTIP_POISON,отравление
+TOOLTIP_FIRE,огонь
+TOOLTIP_SHOCK,шок
+TOOLTIP_ACID,кислота
+TOOLTIP_BLOCK,блок
+TOOLTIP_BARRIER,барьер
+TOOLTIP_ABSORPTION,поглощение
+
+TOOLTIP_SHOCK_MSG,Наносит %s ед. шока
+TOOLTIP_SELF_SHOCK_MSG,Причиняет вам %s ед. шока
+
+TOOLTIP_FIRE_MSG,Наносит %s ед. огня
+TOOLTIP_SELF_FIRE_MSG,Причиняет вам %s ед. огня
+
+TOOLTIP_POISON_MSG,Наносит %s ед. отравления
+TOOLTIP_SELF_POISON_MSG,Причиняет вам %s ед. отравления
+
+TOOLTIP_ACID_MSG,Наносит %s ед. кислоты
+TOOLTIP_SELF_ACID_MSG,Причиняет вам %s ед. кислоты
+
+TOOLTIP_DOOM_MSG,Наносит %s ед. гибели
+TOOLTIP_SELF_DOOM_MSG,Причиняет вам %s ед. гибели
+
+TOOLTIP_DAMAGE_MSG,Наносит %s ед. урона
+TOOLTIP_SELF_DAMAGE_MSG,Причиняет вам %s ед. урона
+
+TOOLTIP_BLOCK_MSG,Дает %s ед. блока
+TOOLTIP_ABSORPTION_MSG,Дает %s ед. поглощения
+TOOLTIP_BARRIER_MSG,Дает %s ед. к максимуму барьера
+TOOLTIP_RESTORE_BARRIER_MSG,Восстанавливает %s барьера
+TOOLTIP_HEAL_MSG,Исцеляет %s здоровья
+TOOLTIP_HEALTH_MSG,Дает %s ед. здоровья
+TOOLTIP_REGENERATION_MSG,Дает %s ед. регенерации
+TOOLTIP_PURITY_MSG,Дает %s ед. очищения
+TOOLTIP_FURY_MSG,Дает %s ед. ярости
+TOOLTIP_THORNS_MSG,Дает %s ед. шипов
+TOOLTIP_GAIN_SWIFTNESS_MSG,Увеличивает скорость на %s ед.
+TOOLTIP_LOSE_SWIFTNESS_MSG,Уменьшает скорость на %s ед.
+
+INFO_RESISTANCE_MSG,Сопротивление — это эффект состояния, который снижает получаемый урон, наносимые негативные эффекты или недуги указанного типа по формуле: [center]Накладываемый эффект = Эффект / (1 + Сопротивление/100)[/center]
+INFO_POWER_MSG,Сила — это эффект состояния, который увеличивает указанный эффект на определенный процент. Каждое очко силы дает увеличение на 1%.
+INFO_STEAL_MSG,Кража — это эффект, который вычитает значение из ресурсов противника и добавляет это значение к владельцу предмета.
+INFO_HEALTH_MSG,Здоровье — это основной показатель жизни. Все персонажи начинают со 100 ед. здоровья. Персонаж считается побежденным, когда его здоровье достигает 0.
+INFO_DAMAGE_MSG,Урон — это эффект, который уменьшает здоровье и защиту противника на определённое значение.
+INFO_HEAL_MSG,Исцеление — это эффект, восстанавливающий здоровье до максимального значения.
+INFO_PURITY_MSG,Очищение — это эффект состояния, который снимает случайные негативные эффекты и при этом расходуется. Каждая единица чистоты снимает одну единицу негативного эффекта.
+INFO_REGENERATION_MSG,Регенерация — это эффект состояния, который восстанавливает здоровье с течением времени до достижения максимального значения, а также уменьшается со временем.
+INFO_THORNS_MSG,Шипы — это эффект состояния, вызывающий ответную потерю здоровья при каждом полученном ударе.
+INFO_SWIFTNESS_MSG,Скорость — это эффект состояния, который добавляет задержку перед началом действий противника (0,05 секунд за каждую единицу). Отрицательное значение скорости имеет обратный эффект.
+INFO_FURY_MSG,Ярость — это эффект состояния, который прибавляет значение ко всем эффектам урона.
+INFO_DOOM_MSG,Гибель — это эффект состояния, который отнимает всё здоровье у поражённой цели, когда количество очков гибели достигает текущего значения здоровья.
+INFO_POISON_MSG,Отравление — это недуг, вызывающий потерю здоровья с течением времени.
+INFO_FIRE_MSG,Огонь — это недуг, который вызывает потерю здоровья с течением времени и постепенно уменьшается.
+INFO_SHOCK_MSG,Шок — это недуг, при накладывании которого вычитается количество очков здоровья, равное общему значению шока на цели. Шок уменьшается со временем. Если несколько эффектов шока активируется одновременно, каждый шок накладывается отдельно в порядке от наименьшего к наибольшему значению.
+INFO_ACID_MSG,Кислота — это недуг, вызывающий потерю  здоровья с течением времени, а также уменьшается со временем. Кислота не пробивает защиту и обладает удвоенной эффективностью против неё, но c вдвое меньшей эффективностью поражает здоровье.
+INFO_BLOCK_MSG,Блок — это защита, которая поглощяет урон перед здоровьем. Блок можно накапливать бесконечно. Блок не защищает от негативных эффектов и недугов, кроме кислоты.
+INFO_BARRIER_MSG,Барьер — это защита, которая поглощяет урон перед здоровьем. Барьер может быть восстановлен только до максимального значения. Барьер не защищает от негативных эффектов и недугов, кроме кислоты и шока.
+INFO_ABSORPTION_MSG,Поглощение — это защита, которая поглощяет урон перед здоровьем и уменьшается со временем.
+INFO_CHARGES_MSG,Заряды — это количество раз, которое предмет может активироваться.
+
+TUTORIAL_HOLD_RIGHT_CLICK_TO_CONTINUE,Удерживай [Правую Кнопку Мыши] чтобы продолжить
+TUTORIAL_TUTORIAL_MSG,Это обучение покажет Вам основы игры в Realmshade.
+TUTORIAL_SETTINGS_MSG,Вы можете получить доступ к настройкам в любое время, нажав [Esc] или щелкнув эту кнопку в правом нижнем углу.
+TUTORIAL_INVENTORY_MSG,В инвентаре хранятся предметы, которые будут использованы в бою.
+TUTORIAL_STORAGE_MSG,В хранилище хранятся любые предметы, которые не помещаются в основной инвентарь. Размер хранилища такой же как размер вашего основного инвентаря.
+TUTORIAL_TRASH_MSG,Мусорная корзина скрыта по умолчанию и отображается только во время перетаскивания предмета. Все предметы, оставленные в корзине, будут удалены после завершения события.
+TUTORIAL_EVENT_TRACK,Трек событий
+TUTORIAL_EVENT_TRACK_MSG,Ниже вы можете увидеть свой текущий прогресс по уровню. Как правило, каждый уровень состоит из двух событий "выбор из трех", за которыми следует поединок доблести. Исключение составляет нулевой уровень, на нем нет боя за доблесть. Наведите курсор на значок события или щелкните по нему, чтобы просмотреть дополнительную информацию.
+TUTORIAL_LEVEL_MSG,Уровень определяет, какие события Вы встречете и с какими противниками Вы будете участвовать.
+TUTORIAL_VALOUR_MSG,В начале игры у вас 3 очка доблести. После поражения в бою за доблесть вы теряете 1 очко доблести. Бой за доблесть — это сражение с другим игроком в конце каждого уровня. После потери всех очков доблести вы теряете все свои предметы и сбрасываете уровень до 0.
+TUTORIAL_NEXT_EVENT,Следующее событие
+TUTORIAL_NEXT_EVENT_MSG,Эта кнопка позволяет перейти к следующему событию. В качестве альтернативы вы можете нажать [Пробел]. Вы не сможете перейти к следующему событию, если у вас остались незавершенные действия во время текущего события.
+TUTORIAL_EVENT_CHOICE,Выбор события
+TUTORIAL_EVENT_CHOICE_MSG,Это меню выбора событий. Нажатие кнопки события отображает предварительный просмотр события, показываемый выше.
+TUTORIAL_EVENT_CHOICE_CONTINUE_MSG,Выберите событие и нажмите "Далее", чтобы продолжить
+TUTORIAL_ITEMS,Предметы
+TUTORIAL_ITEMS_MSG,Предметы выдаются за выполнение заданий и победы в сражениях. При наведении курсора на любой предмет отображается его описание. Удерживая клавишу [ALT], вы можете получить описание дополнительных эффектов.
+TUTORIAL_ITEMS_CONTINUE_MSG,Наведите курсор на предмет и удерживайте клавишу [Alt], чтобы продолжить
+TUTORIAL_ITEM_INTERACTION,Взаимодействие с предметами
+TUTORIAL_ITEM_INTERACTION_MSG,Удерживайте [Левую Кнопку Мыши] над сверкающим предметом, чтобы начать его перетаскивание, а затем нажмите [Правую Кнопку Мыши] или [R], чтобы повернуть его. Предметы перекрывают ячейки контейнера прямоугольной формой, не могут выходить за ее границы и должны размещаться над пустыми ячейками.
+TUTORIAL_ITEM_INTERACTION_CONTINUE_MSG,Поместите предмет в инвентарь, затем нажмите "Далее"
+TUTORIAL_SECOND_EVENT,Второе событие
+TUTORIAL_SECOND_EVENT_MSG,Вы дошли до второго события. Завершите это событие.
+TUTORIAL_SECOND_EVENT_CONTINUE_MSG,Выберите событие и переходите к получению награды
+TUTORIAL_REROLLING,Переброс
+TUTORIAL_REROLLING_MSG,При получении предмета у вас всегда есть возможность перебросить его, получив новый уникальный предмет из того же набора наград. Имейте в виду, что существует возрастающая вероятность неудачного переброса и потери всех наград.
+TUTORIAL_REROLLING_CONTINUE_MSG,Получите или перебросьте эту награду и нажмите "Далее", чтобы продолжить
+TUTORIAL_LEVEL_UP,Повышение уровня
+TUTORIAL_LEVEL_UP_MSG,Вы прошли нулевой уровень. С первого уровня Вы будете сталкиваться с монстрами, которые обозначены красным цветом. За победу над ними выдается один из предметов, принадлежащих монстру.
+TUTORIAL_LEVEL_UP_CONTINUE_MSG,Завершите любое событие, чтобы продолжить
+TUTORIAL_LAST_EVENT,Последнее событие
+TUTORIAL_LAST_EVENT_MSG,Это последнее событие перед битвой доблести. Выберите событие и завершите его.
+TUTORIAL_LAST_EVENT_CONTINUE_MSG,Выберите и завершите событие, чтобы продолжить
+TUTORIAL_VALOUR_FIGHT_PREPARATION,Подготовка к бою доблести
+TUTORIAL_VALOUR_FIGHT_PREPARATION_MSG,В конце каждого уровня вы сражаетесь с другим игроком. Если вы проиграете этот бой, вы потеряете 1 очко доблести. На этапе подготовки к бою вы можете осмотреть инвентарь противника и заменить любые предметы с предметами в своем хранилище.
+TUTORIAL_VALOUR_FIGHT_PREPARATION_CONTINUE_MSG,Нажмите "Далее", чтобы продолжить
+TUTORIAL_TUTORIAL_END,Конец обучения
+TUTORIAL_TUTORIAL_END_MSG,Обучение завершено. Вы можете продолжить играть в обычном режиме, пока не завершите этот забег. Или можете начать новый забег, выйдя из игры через [Esc]>Выход. Если вам что-то показалось непонятным или вы хотите оставить отзыв, используйте [Esc]>Обратная связь.
+TUTORIAL_TUTORIAL_END_FINISH_MSG,Удерживайте [Правую Кнопку Мыши], чтобы завершить

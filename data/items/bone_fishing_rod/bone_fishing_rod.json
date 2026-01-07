@@ -1,0 +1,24 @@
+{
+	"name" : "bone_fishing_rod",
+	"width" : 1,
+	"height" : 3,
+	
+	"tags" : [
+		"fishing_rod"
+	],
+	
+	"tag_values" : {
+		"fishing" : 2
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 7,
+			"damage" : 20
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Костяная Удочка"
+	}
+}

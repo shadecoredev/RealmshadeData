@@ -1,0 +1,19 @@
+{
+	"name" : "lightstep_boots",
+	"width" : 2,
+	"height" : 1,
+	
+	"tags" : [
+		"apparel"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"swiftness" : 40
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Ботинки Легкого Шага"
+	}
+}

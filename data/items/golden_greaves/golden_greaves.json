@@ -1,0 +1,22 @@
+{
+	"name" : "golden_greaves",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"shock_resistance" : 50,
+			"block" : 100,
+			"absorption" : 200,
+			"swiftness" : -10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотые Поножи"
+	}
+}

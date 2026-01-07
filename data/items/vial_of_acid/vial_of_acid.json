@@ -1,0 +1,21 @@
+{
+	"name" : "vial_of_acid",
+	"width" : 1,
+	"height" : 2,
+
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"charges" : 1,
+			"acid" : 15,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Флакон с Кислотой"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name" : "magic_hat",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 25,
+		},
+		{
+			"type" : "cooldown",
+			"time" : 8,
+			"restore_barrier_percent" : 30,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Волшебная Шляпа"
+	}
+}

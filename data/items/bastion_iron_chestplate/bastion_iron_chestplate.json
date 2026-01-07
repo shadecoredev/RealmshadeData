@@ -1,0 +1,21 @@
+{
+	"name" : "bastion_iron_chestplate",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"armor",
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block_power" : 50,
+			"health" : 250,
+			"block" : 350,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Бастион Железный Нагрудник"
+	}
+}

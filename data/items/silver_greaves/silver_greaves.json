@@ -1,0 +1,21 @@
+{
+	"name" : "silver_greaves",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 200,
+			"swiftness_power" : 10,
+			"swiftness" : 20
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Серебряные Поножи"
+	}
+}

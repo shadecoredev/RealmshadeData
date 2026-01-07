@@ -1,0 +1,17 @@
+{
+	"name" : "boulder",
+	"width" : 3,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 20,
+			"charges" : 1,
+			"damage" : 350
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Валун"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"name" : "leather_helmet",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 60
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Кожаный Шлем"
+	}
+}

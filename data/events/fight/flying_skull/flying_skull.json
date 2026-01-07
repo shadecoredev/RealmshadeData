@@ -1,0 +1,28 @@
+{
+	"name" : "flying_skull",
+	"type" : "fight",
+	"level_range_start" : 2,
+	"level_range_end" : 3,
+	"inventory" : {
+		"items": [
+			{
+				"name": "black_candle",
+				"position": 0
+			},
+			{
+				"name": "black_candle",
+				"position": 48
+			},
+			{
+				"name": "skull",
+				"position": 17
+			}
+		],
+
+		"width": 4,
+		"height": 3
+	},
+	"translation" : {
+		"ru_RU" : "Летающий Череп"
+	}
+}

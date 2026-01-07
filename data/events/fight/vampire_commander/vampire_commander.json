@@ -1,0 +1,83 @@
+{
+	"name" : "vampire_commander",
+	"type" : "fight",
+	"level_range_start" : 10,
+	"level_range_end" : 10,
+	"inventory" : {
+		"items": [
+				{
+			"name": "iron_dagger",
+			"position": 404
+		},
+		{
+			"name": "regeneration_potion",
+			"position": 115
+		},
+		{
+			"name": "nasty_skin",
+			"position": 113
+		},
+		{
+			"name": "crimson_robe",
+			"position": 82
+		},
+		{
+			"name": "crimson_necklace",
+			"position": 81
+		},
+		{
+			"name": "vitality_potion",
+			"position": 51
+		},
+		{
+			"name": "nasty_skin",
+			"position": 49
+		},
+		{
+			"name": "iron_dagger",
+			"position": 276
+		},
+		{
+			"name": "gorehunger_copper_axe",
+			"position": 17
+		},
+		{
+			"name": "ruby_ring",
+			"position": 112
+		},
+		{
+			"name": "vampire_fangs",
+			"position": 80
+		},
+		{
+			"name": "ruby_ring",
+			"position": 64
+		},
+		{
+			"name": "restoration_potion",
+			"position": 3
+		},
+		{
+			"name": "restoration_potion",
+			"position": 179
+		},
+		{
+			"name": "golden_shield",
+			"position": 145
+		},
+		{
+			"name": "bloodthirst_copper_sword",
+			"position": 272
+		},
+		{
+			"name": "bloodthirst_copper_sword",
+			"position": 384
+		}
+	],
+		"width": 12,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Командир Вампиров"
+	}
+}

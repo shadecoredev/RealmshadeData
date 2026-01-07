@@ -1,0 +1,16 @@
+{
+	"name" : "reinforced_wooden_shield",
+	"width" : 2,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"block" : 65
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Укрепленный Деревянный Щит"
+	}
+}

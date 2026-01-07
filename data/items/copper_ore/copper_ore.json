@@ -1,0 +1,16 @@
+{
+	"name" : "copper_ore",
+	"width" : 2,
+	"height" : 1,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 10,
+			"damage" : 35,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Медная Руда"
+	}
+}

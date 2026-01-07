@@ -1,0 +1,21 @@
+{
+	"name" : "healing_potion",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 3,
+			"time" : 6,
+			"heal" : 120,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Исцеляющее Зелье"
+	}
+}

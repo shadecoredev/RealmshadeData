@@ -1,0 +1,21 @@
+{
+	"name" : "purifying_potion",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 3,
+			"time" : 5,
+			"purity" : 15
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Очищающее Зелье"
+	}
+}

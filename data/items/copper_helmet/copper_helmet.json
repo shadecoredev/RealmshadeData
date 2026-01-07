@@ -1,0 +1,20 @@
+{
+	"name" : "copper_helmet",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 90,
+			"fury" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Медный Шлем"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"name" : "leather_chestplate",
+	"width" : 3,
+	"height" : 3,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 50,
+			"block" : 100
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Кожаный Нагрудник"
+	}
+}

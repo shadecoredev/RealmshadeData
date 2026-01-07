@@ -1,0 +1,17 @@
+{
+	"name" : "dragon_wing",
+	"width" : 5,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 100,
+			"barrier" : 100,
+			"swiftness" : 60
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Крыло Дракона"
+	}
+}

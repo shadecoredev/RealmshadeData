@@ -1,0 +1,17 @@
+{
+	"name" : "magic_tower",
+	"type" : "free_reward",
+	"level_range_start" : 0,
+	"level_range_end" : 1,
+	"rewards" : [
+		"guarding_necklace",
+		"magic_orb",
+		"spectral_robe",
+		"magic_book",
+		"shock_wand",
+		"vial_of_acid"
+	],
+	"translation" : {
+		"ru_RU" : "Волшебная Башня"
+	}
+}

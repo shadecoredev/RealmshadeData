@@ -1,0 +1,21 @@
+{
+	"name" : "plaguebringer_copper_dagger",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"damage" : 12,
+			"poison" : 3
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Вестник Чумы Медный Кинжал"
+	}
+}

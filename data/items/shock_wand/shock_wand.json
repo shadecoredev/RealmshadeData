@@ -1,0 +1,24 @@
+{
+	"name" : "shock_wand",
+	"width" : 1,
+	"height" : 3,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"shock" : 6
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"shock" : 12
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Жезл Шока"
+	}
+}

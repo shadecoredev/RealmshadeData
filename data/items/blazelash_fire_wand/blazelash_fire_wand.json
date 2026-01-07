@@ -1,0 +1,25 @@
+{
+	"name" : "blazelash_fire_wand",
+	"width" : 1,
+	"height" : 4,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"fire_power" : 10,
+			"fire" : 15
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"fire" : 15
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Плеть Пламени Огненный Жезл"
+	}
+}

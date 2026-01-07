@@ -1,0 +1,20 @@
+{
+	"name" : "fire_spellbook",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 9,
+			"fire" : 30
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Книга Огненного Заклинания"
+	}
+}

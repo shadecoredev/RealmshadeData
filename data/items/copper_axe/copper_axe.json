@@ -1,0 +1,26 @@
+{
+	"name" : "copper_axe",
+	"width" : 2,
+	"height" : 3,
+
+	"tags" : [
+		"melee",
+		"axe"
+	],
+	
+	"tag_values" : {
+		"woodcutting" : 3
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"damage" : 30,
+			"fury" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : " Медный Топор"
+	}
+}

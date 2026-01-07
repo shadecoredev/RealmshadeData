@@ -1,0 +1,20 @@
+{
+	"name" : "bloodthirst_copper_sword",
+	"width" : 1,
+	"height" : 3,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 4,
+			"health_steal" : 25
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Кровожадность Медный Меч"
+	}
+}

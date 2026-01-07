@@ -1,0 +1,19 @@
+{
+	"name" : "aquamarine_ring",
+	"width" : 1,
+	"height" : 1,
+	
+	"tags" : [
+		"jewelry"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"purity" : 20
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Аквамариновое Кольцо"
+	}
+}

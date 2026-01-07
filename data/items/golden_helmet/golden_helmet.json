@@ -1,0 +1,26 @@
+{
+	"name" : "golden_helmet",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"fury_power" : 20,
+			"absorption" : 200,
+			"block" : 100,
+		},
+		{
+			"type" : "cooldown",
+			"time" : 8,
+			"fury" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотой Шлем"
+	}
+}

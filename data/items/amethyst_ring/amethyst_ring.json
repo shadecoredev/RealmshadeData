@@ -1,0 +1,19 @@
+{
+	"name" : "amethyst_ring",
+	"width" : 1,
+	"height" : 1,
+	
+	"tags" : [
+		"jewelry"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"doom_resistance" : 66
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Аметистовое Кольцо"
+	}
+}

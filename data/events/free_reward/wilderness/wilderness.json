@@ -1,0 +1,18 @@
+{
+	"name" : "wilderness",
+	"type" : "free_reward",
+	"level_range_start" : 0,
+	"rewards" : [
+		"vileshroom",
+		"healstem",
+		"poisonleaf",
+		"cleanseroot",
+		"raw_hide",
+		"vile_meat",
+		"branch",
+		"rock"
+	],
+	"translation" : {
+		"ru_RU" : "Дикая Местность"
+	}
+}

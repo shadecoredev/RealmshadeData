@@ -1,0 +1,22 @@
+{
+	"name" : "golden_chestplate",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"armor",
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"acid_resistance" : 100,
+			"absorption" : 500,
+			"health" : 250,
+			"block" : 250,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотой Нагрудник"
+	}
+}

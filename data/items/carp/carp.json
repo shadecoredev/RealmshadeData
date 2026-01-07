@@ -1,0 +1,21 @@
+{
+	"name" : "carp",
+	"width" : 3,
+	"height" : 2,
+	
+	"tags" : [
+		"food"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"charges" : 3,
+			"health" : 50
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Карп"
+	}
+}

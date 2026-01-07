@@ -1,0 +1,27 @@
+{
+	"name" : "skeleton_archer",
+	"type" : "fight",
+	"level_range_start" : 1,
+	"level_range_end" : 2,
+	"inventory" : {
+	"items": [
+		{
+			"name": "bone",
+			"position": 257
+		},
+		{
+			"name": "bone",
+			"position": 305
+		},
+		{
+			"name": "bow",
+			"position": 16
+		}
+	],
+		"width": 4,
+		"height": 3
+	},
+	"translation" : {
+		"ru_RU" : "Скелет Лучник"
+	}
+}

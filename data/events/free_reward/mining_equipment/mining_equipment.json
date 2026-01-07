@@ -1,0 +1,17 @@
+{
+	"name" : "mining_equipment",
+	"type" : "free_reward",
+	"level_range_start" : 0,
+	"level_range_end" : 1,
+	"rewards" : [
+		"dynamite_stick",
+		"torch",
+		"bomb",
+		"spade",
+		"copper_pickaxe",
+		"leather_boots"
+	],
+	"translation" : {
+		"ru_RU" : "Шахтерская Экипировка"
+	}
+}

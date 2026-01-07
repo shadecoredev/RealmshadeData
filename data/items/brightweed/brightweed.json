@@ -1,0 +1,21 @@
+{
+	"name" : "brightweed",
+	"width" : 2,
+	"height" : 2,
+
+	"tags" : [
+		"plant"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"fire_power" : 5,
+			"fire" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Ярколист"
+	}
+}

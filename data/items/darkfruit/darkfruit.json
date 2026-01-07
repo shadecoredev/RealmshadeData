@@ -1,0 +1,25 @@
+{
+	"name" : "darkfruit",
+	"width" : 1,
+	"height" : 1,
+	
+	"tags" : [
+		"food",
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 100,
+		},
+		{
+			"type" : "cooldown",
+			"charges" : 1,
+			"time" : 6,
+			"self_doom" : 50
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Темнофрукт"
+	}
+}

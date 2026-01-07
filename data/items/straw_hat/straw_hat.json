@@ -1,0 +1,19 @@
+{
+	"name" : "straw_hat",
+	"width" : 2,
+	"height" : 1,
+	
+	"tags" : [
+		"apparel"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 15
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Соломенная Шляпа"
+	}
+}

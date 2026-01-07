@@ -1,0 +1,51 @@
+{
+	"name" : "acolyte_of_pestilence",
+	"type" : "fight",
+	"level_range_start" : 7,
+	"level_range_end" : 8,
+	"inventory" : {
+		"items": [
+		{
+			"name": "poison_wand",
+			"position": 0
+		},
+		{
+			"name": "poison_wand",
+			"position": 96
+		},
+		{
+			"name": "spectral_robe",
+			"position": 34
+		},
+		{
+			"name": "magic_hat",
+			"position": 16
+		},
+		{
+			"name": "magic_boots",
+			"position": 3
+		},
+		{
+			"name": "ruby_ring",
+			"position": 18
+		},
+		{
+			"name": "viper_ring",
+			"position": 49
+		},
+		{
+			"name": "magic_orb",
+			"position": 65
+		},
+		{
+			"name": "healing_potion",
+			"position": 67
+		}
+	],
+		"width": 7,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Служитель Мора"
+	}
+}

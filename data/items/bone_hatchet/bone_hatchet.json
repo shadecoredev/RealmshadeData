@@ -1,0 +1,26 @@
+{
+	"name" : "bone_hatchet",
+	"width" : 2,
+	"height" : 3,
+
+	"tags" : [
+		"melee",
+		"axe"
+	],
+	
+	"tag_values" : {
+		"woodcutting" : 2
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"damage" : 20,
+			"fury" : 3
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Костяной Топорик"
+	}
+}

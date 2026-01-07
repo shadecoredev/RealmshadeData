@@ -1,0 +1,25 @@
+{
+	"name" : "silver_pickaxe",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"melee",
+		"pickaxe"
+	],
+	
+	"tag_values" : {
+		"mining" : 10
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"damage" : 75
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Серебряная Кирка"
+	}
+}

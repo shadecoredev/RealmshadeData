@@ -1,0 +1,20 @@
+{
+	"name" : "abandoned_mine",
+	"type" : "mining_spot",
+	"level_range_start" : 2,
+	"results" : [
+		["rock", 1],
+		["copper_ore", 5],
+		["amethyst", 1],
+		["emerald", 1],
+		["topaz", 1],
+		["iron_ore", 5],
+		["aquamarine", 1],
+		["silver_ore", 5],
+		["ruby", 1],
+		["gold_ore", 5]
+	],
+	"translation" : {
+		"ru_RU" : "Заброшенная Шахта"
+	}
+}

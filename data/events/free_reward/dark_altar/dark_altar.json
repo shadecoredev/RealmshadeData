@@ -1,0 +1,17 @@
+{
+	"name" : "dark_altar",
+	"type" : "free_reward",
+	"level_range_start" : 0,
+	"level_range_end" : 1,
+	"rewards" : [
+		"branch",
+		"amethyst",
+		"embers",
+		"candle",
+		"bone",
+		"skull"
+	],
+	"translation" : {
+		"ru_RU" : "Темный Алтарь"
+	}
+}

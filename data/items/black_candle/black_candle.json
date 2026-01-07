@@ -1,0 +1,16 @@
+{
+	"name" : "black_candle",
+	"width" : 1,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"doom" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Черная Свеча"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name" : "golden_dagger",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 20
+		},
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"barrier_steal" : 20,
+			"damage" : 35
+		}
+	]
+}

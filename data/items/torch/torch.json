@@ -1,0 +1,17 @@
+{
+	"name" : "torch",
+	"width" : 1,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"damage" : 15,
+			"fire" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Факел"
+	}
+}

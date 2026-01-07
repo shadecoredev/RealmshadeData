@@ -1,0 +1,25 @@
+{
+	"name" : "silver_sword",
+	"width" : 1,
+	"height" : 4,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"swiftness" : 30
+		},
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"damage" : 50,
+			"purity" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Серебряный Меч"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name" : "booze",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 2,
+			"time" : 3,
+			"self_acid" : 10,
+			"damage_power" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Выпивка"
+	}
+}

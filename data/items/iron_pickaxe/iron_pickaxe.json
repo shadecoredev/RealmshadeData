@@ -1,0 +1,25 @@
+{
+	"name" : "iron_pickaxe",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"melee",
+		"pickaxe"
+	],
+	
+	"tag_values" : {
+		"mining" : 8
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"damage" : 65
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Железная Кирка"
+	}
+}

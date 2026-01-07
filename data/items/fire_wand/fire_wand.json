@@ -1,0 +1,24 @@
+{
+	"name" : "fire_wand",
+	"width" : 1,
+	"height" : 3,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"fire" : 10
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"fire" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Огненный Жезл"
+	}
+}

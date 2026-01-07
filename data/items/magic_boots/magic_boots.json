@@ -1,0 +1,25 @@
+{
+	"name" : "magic_boots",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 50,
+			"swiftness" : 10
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"restore_barrier_percent" : 20,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Волшебные Ботинки"
+	}
+}

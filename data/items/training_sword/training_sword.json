@@ -1,0 +1,20 @@
+{
+	"name" : "training_sword",
+	"width" : 1,
+	"height" : 3,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"damage" : 20
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Тренировочный Меч"
+	}
+}

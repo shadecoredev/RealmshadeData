@@ -1,0 +1,21 @@
+{
+	"name" : "magic_potion",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 4,
+			"time" : 4,
+			"restore_barrier" : 90,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Волшебное Зелье"
+	}
+}

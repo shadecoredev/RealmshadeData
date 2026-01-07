@@ -1,0 +1,47 @@
+{
+	"name" : "glittering_skeleton",
+	"type" : "fight",
+	"level_range_start" : 8,
+	"level_range_end" : 9,
+	"inventory" : {
+		"items": [
+		{
+			"name": "golden_sword",
+			"position": 0
+		},
+		{
+			"name": "golden_chestplate",
+			"position": 34
+		},
+		{
+			"name": "bone",
+			"position": 4
+		},
+		{
+			"name": "topaz_ring",
+			"position": 19
+		},
+		{
+			"name": "skull",
+			"position": 32
+		},
+		{
+			"name": "iron_shield",
+			"position": 113
+		},
+		{
+			"name": "bone",
+			"position": 84
+		},
+		{
+			"name": "golden_helmet",
+			"position": 82
+		}
+	],
+		"width": 9,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Сверкающий Скелет"
+	}
+}

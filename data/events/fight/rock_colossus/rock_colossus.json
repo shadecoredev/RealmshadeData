@@ -1,0 +1,99 @@
+{
+	"name" : "rock_colossus",
+	"type" : "fight",
+	"level_range_start" : 7,
+	"level_range_end" : 8,
+	"inventory" : {
+		"items": [
+		{
+			"name": "rock",
+			"position": 259
+		},
+		{
+			"name": "rock",
+			"position": 275
+		},
+		{
+			"name": "rock",
+			"position": 2
+		},
+		{
+			"name": "rock",
+			"position": 272
+		},
+		{
+			"name": "rock",
+			"position": 289
+		},
+		{
+			"name": "rock",
+			"position": 306
+		},
+		{
+			"name": "rock",
+			"position": 435
+		},
+		{
+			"name": "rock",
+			"position": 419
+		},
+		{
+			"name": "rock",
+			"position": 162
+		},
+		{
+			"name": "rock",
+			"position": 416
+		},
+		{
+			"name": "rock",
+			"position": 401
+		},
+		{
+			"name": "rock",
+			"position": 32
+		},
+		{
+			"name": "rock",
+			"position": 64
+		},
+		{
+			"name": "rock",
+			"position": 96
+		},
+		{
+			"name": "rock",
+			"position": 128
+		},
+		{
+			"name": "rock",
+			"position": 49
+		},
+		{
+			"name": "rock",
+			"position": 113
+		},
+		{
+			"name": "rock",
+			"position": 386
+		},
+		{
+			"name": "life_crystal",
+			"position": 66
+		},
+		{
+			"name": "ruby_necklace",
+			"position": 81
+		},
+		{
+			"name": "soul_shard",
+			"position": 114
+		}
+	],
+		"width": 12,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Каменный Колосс"
+	}
+}

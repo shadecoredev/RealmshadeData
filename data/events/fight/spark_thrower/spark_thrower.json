@@ -1,0 +1,44 @@
+{
+	"name" : "spark_thrower",
+	"type" : "fight",
+	"level_range_start" : 8,
+	"level_range_end" : 9,
+	"inventory" : {
+		"items": [
+		{
+			"name": "silver_greaves",
+			"position": 19
+		},
+		{
+			"name": "silver_chestplate",
+			"position": 16
+		},
+		{
+			"name": "aquamarine_ring",
+			"position": 51
+		},
+		{
+			"name": "regeneration_potion",
+			"position": 67
+		},
+		{
+			"name": "copper_shield",
+			"position": 64
+		},
+		{
+			"name": "shock_wand",
+			"position": 97
+		},
+		{
+			"name": "storm_staff",
+			"position": 0
+		}
+
+	],
+		"width": 7,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Метатель Искр"
+	}
+}

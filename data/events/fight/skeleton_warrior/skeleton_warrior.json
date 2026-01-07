@@ -1,0 +1,52 @@
+{
+	"name" : "skeleton_warrior",
+	"type" : "fight",
+	"level_range_start" : 3,
+	"level_range_end" : 4,
+	"inventory" : {
+		"items": [
+		{
+			"name": "skull",
+			"position": 48
+		},
+		{
+			"name": "wooden_shield",
+			"position": 1
+		},
+		{
+			"name": "copper_axe",
+			"position": 97
+		},
+		{
+			"name": "bone",
+			"position": 338
+		},
+		{
+			"name": "aquamarine",
+			"position": 50
+		},
+		{
+			"name": "bone",
+			"position": 52
+		},
+		{
+			"name": "bone",
+			"position": 290
+		},
+		{
+			"name": "spiked_pauldron",
+			"position": 33
+		},
+		{
+			"name": "spiked_pauldron",
+			"position": 81
+		}
+
+	],
+		"width": 8,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Скелет Воин"
+	}
+}

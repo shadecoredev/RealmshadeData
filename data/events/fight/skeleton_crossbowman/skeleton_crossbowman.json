@@ -1,0 +1,43 @@
+{
+	"name" : "skeleton_crossbowman",
+	"type" : "fight",
+	"level_range_start" : 2,
+	"level_range_end" : 4,
+	"inventory" : {
+		"items": [
+		{
+			"name": "skull",
+			"position": 32
+		},
+		{
+			"name": "cloth_tunic",
+			"position": 50
+		},
+		{
+			"name": "bone",
+			"position": 18
+		},
+		{
+			"name": "crossbow",
+			"position": 259
+		},
+		{
+			"name": "bone",
+			"position": 52
+		},
+		{
+			"name": "bone",
+			"position": 338
+		},
+		{
+			"name": "copper_dagger",
+			"position": 80
+		}
+	],
+		"width": 6,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Скелет Арбалетчик"
+	}
+}

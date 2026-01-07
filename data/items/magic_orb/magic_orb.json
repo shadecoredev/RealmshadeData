@@ -1,0 +1,19 @@
+{
+	"name" : "magic_orb",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 80
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Волшебный Шар"
+	}
+}

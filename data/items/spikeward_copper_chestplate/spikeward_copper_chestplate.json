@@ -1,0 +1,21 @@
+{
+	"name" : "spikeward_copper_chestplate",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"armor",
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 150,
+			"block" : 200,
+			"thorns" : 25
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Колючий Хранитель Медный Нагрудник"
+	}
+}

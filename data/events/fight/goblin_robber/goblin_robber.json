@@ -1,0 +1,27 @@
+{
+	"name" : "goblin_robber",
+	"type" : "fight",
+	"level_range_start" : 2,
+	"level_range_end" : 3,
+	"inventory" : {
+		"items": [
+		{
+			"name": "leather_helmet",
+			"position": 16
+		},
+		{
+			"name": "copper_dagger",
+			"position": 258
+		},
+		{
+			"name": "green_skin",
+			"position": 49
+		}
+	],
+		"width": 5,
+		"height": 3
+	},
+	"translation" : {
+		"ru_RU" : "Гоблин Разбойник"
+	}
+}

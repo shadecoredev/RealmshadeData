@@ -1,0 +1,22 @@
+{
+	"name" : "toxic_concoction",
+	"width" : 2,
+	"height" : 2,
+
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"charges" : 1,
+			"acid" : 30,
+			"poison" : 15,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Токсичная Смесь"
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"name" : "drunk_guard",
+	"type" : "fight",
+	"level_range_start" : 7,
+	"level_range_end" : 9,
+	"inventory" : {
+		"items": [
+		{
+			"name": "booze",
+			"position": 3
+		},
+		{
+			"name": "iron_halberd",
+			"position": 16
+		},
+		{
+			"name": "copper_sword",
+			"position": 356
+		},
+		{
+			"name": "iron_chestplate",
+			"position": 50
+		},
+		{
+			"name": "booze",
+			"position": 48
+		},
+		{
+			"name": "leather_helmet",
+			"position": 64
+		},
+		{
+			"name": "wooden_shield",
+			"position": 129
+		},
+		{
+			"name": "booze",
+			"position": 355
+		},
+		{
+			"name": "ruby",
+			"position": 97
+		}
+	],
+		"width": 10,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Пьяный Охранник"
+	}
+}

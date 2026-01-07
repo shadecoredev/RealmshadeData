@@ -1,0 +1,23 @@
+{
+	"name" : "iron_greaves",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"poison_resistance" : 25,
+			"fire_resistance" : 25,
+			"acid_resistance" : 25,
+			"block" : 60,
+			"swiftness" : -20
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Железные Поножи"
+	}
+}

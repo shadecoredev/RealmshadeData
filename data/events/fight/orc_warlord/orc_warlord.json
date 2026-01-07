@@ -1,0 +1,67 @@
+{
+	"name" : "orc_warlord",
+	"type" : "fight",
+	"level_range_start" : 8,
+	"level_range_end" : 10,
+	"inventory" : {
+		"items": [
+		{
+			"name": "golden_axe",
+			"position": 0
+		},
+		{
+			"name": "teeth_necklace",
+			"position": 82
+		},
+		{
+			"name": "golden_helmet",
+			"position": 80
+		},
+		{
+			"name": "raw_hide",
+			"position": 83
+		},
+		{
+			"name": "green_skin",
+			"position": 48
+		},
+		{
+			"name": "green_skin",
+			"position": 112
+		},
+		{
+			"name": "silver_sword",
+			"position": 160
+		},
+		{
+			"name": "leather_gloves",
+			"position": 52
+		},
+		{
+			"name": "vile_meat",
+			"position": 322
+		},
+		{
+			"name": "leather_boots",
+			"position": 116
+		},
+		{
+			"name": "vile_meat",
+			"position": 370
+		},
+		{
+			"name": "green_skin",
+			"position": 130
+		},
+		{
+			"name": "green_skin",
+			"position": 34
+		}
+	],
+		"width": 11,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Орк Военачальник"
+	}
+}

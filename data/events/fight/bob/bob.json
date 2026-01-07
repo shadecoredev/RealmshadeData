@@ -1,0 +1,47 @@
+{
+	"name" : "bob",
+	"type" : "fight",
+	"level_range_start" : 4,
+	"level_range_end" : 6,
+	"inventory" : {
+		"items": [
+			{
+				"name": "iron_helmet",
+				"position": 16
+			},
+			{
+				"name": "iron_sword",
+				"position": 258
+			},
+			{
+				"name": "healing_potion",
+				"position": 64
+			},
+			{
+				"name": "ruby_ring",
+				"position": 66
+			},
+			{
+				"name": "amethyst_ring",
+				"position": 0
+			},
+			{
+				"name": "aquamarine_ring",
+				"position": 49
+			},
+			{
+				"name": "spiked_pauldron",
+				"position": 1
+			},
+			{
+				"name": "soul_shard",
+				"position": 48
+			}
+		],
+		"width": 5,
+		"height": 3
+	},
+	"translation" : {
+		"ru_RU" : "Боб"
+	}
+}

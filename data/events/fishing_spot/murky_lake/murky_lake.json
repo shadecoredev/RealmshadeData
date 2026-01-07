@@ -1,0 +1,18 @@
+{
+	"name" : "murky_lake",
+	"type" : "fishing_spot",
+	"level_range_start" : 2,
+	"results" : [
+		["bone", 1],
+		["gudgeon", 5],
+		["cleanseroot", 2],
+		["trout", 5],
+		["healstem", 2],
+		["moonlily", 1],
+		["brightweed", 1],
+		["carp", 5]
+	],
+	"translation" : {
+		"ru_RU" : "Мутное Озеро"
+	}
+}

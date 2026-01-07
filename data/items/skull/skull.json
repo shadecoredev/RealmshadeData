@@ -1,0 +1,17 @@
+{
+	"name" : "skull",
+	"width" : 2,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" :50,
+			"self_damage" : 25,
+			"doom" : 15
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Череп"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"name" : "spiked_pauldron",
+	"width" : 1,
+	"height" : 1,
+
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 20,
+			"thorns" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Шипастый Наплечник"
+	}
+}

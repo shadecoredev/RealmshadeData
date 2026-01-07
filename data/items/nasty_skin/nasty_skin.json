@@ -1,0 +1,16 @@
+{
+	"name" : "nasty_skin",
+	"width" : 2,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 75,
+			"self_damage" : 50,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Мерзкая Кожа"
+	}
+}

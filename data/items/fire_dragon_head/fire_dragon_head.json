@@ -1,0 +1,16 @@
+{
+	"name" : "fire_dragon_head",
+	"width" : 3,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"fire" : 100
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Голова Огненного Дракона"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name" : "silver_chestplate",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"armor",
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"steal_resistance" : 100,
+			"health" : 250,
+			"block" : 500,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Серебряный Нагрудник"
+	}
+}

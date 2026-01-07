@@ -1,0 +1,20 @@
+{
+	"name" : "bow",
+	"width" : 2,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"damage" : 25
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"damage" : 25
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Лук"
+	}
+}

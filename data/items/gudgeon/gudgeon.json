@@ -1,0 +1,21 @@
+{
+	"name" : "gudgeon",
+	"width" : 2,
+	"height" : 1,
+	
+	"tags" : [
+		"food"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 1,
+			"time" : 5,
+			"heal" : 50
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Пескарь"
+	}
+}

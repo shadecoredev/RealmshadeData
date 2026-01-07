@@ -1,0 +1,59 @@
+{
+	"name" : "undead_miner",
+	"type" : "fight",
+	"level_range_start" : 5,
+	"level_range_end" : 5,
+	"inventory" : {
+		"items": [
+		{
+			"name": "bomb",
+			"position": 1
+		},
+		{
+			"name": "torch",
+			"position": 32
+		},
+		{
+			"name": "vile_meat",
+			"position": 50
+		},
+		{
+			"name": "bomb",
+			"position": 35
+		},
+		{
+			"name": "vile_meat",
+			"position": 82
+		},
+		{
+			"name": "vile_meat",
+			"position": 67
+		},
+		{
+			"name": "iron_helmet",
+			"position": 64
+		},
+		{
+			"name": "bomb",
+			"position": 99
+		},
+		{
+			"name": "restoration_potion",
+			"position": 131
+		},
+		{
+			"name": "golden_pickaxe",
+			"position": 112
+		},
+		{
+			"name": "bomb",
+			"position": 161
+		}
+	],
+		"width": 12,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Шахтер Нежить"
+	}
+}

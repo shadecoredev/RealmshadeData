@@ -1,0 +1,51 @@
+{
+	"name" : "undead_farmer",
+	"type" : "fight",
+	"level_range_start" : 2,
+	"level_range_end" : 5,
+	"inventory" : {
+		"items": [
+		{
+			"name": "spade",
+			"position": 0
+		},
+		{
+			"name": "bone",
+			"position": 49
+		},
+		{
+			"name": "straw_hat",
+			"position": 32
+		},
+		{
+			"name": "torch",
+			"position": 81
+		},
+		{
+			"name": "vile_meat",
+			"position": 17
+		},
+		{
+			"name": "nasty_skin",
+			"position": 50
+		},
+		{
+			"name": "leather_boots",
+			"position": 36
+		},
+		{
+			"name": "leather_gloves",
+			"position": 19
+		},
+		{
+			"name": "bone",
+			"position": 18
+		}
+	],
+		"width": 6,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Фермер Нежить"
+	}
+}

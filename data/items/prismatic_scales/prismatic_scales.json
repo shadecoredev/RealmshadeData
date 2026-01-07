@@ -1,0 +1,16 @@
+{
+	"name" : "prismatic_scales",
+	"width" : 2,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 25,
+			"barrier" : 25,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Призматическая Чешуя"
+	}
+}

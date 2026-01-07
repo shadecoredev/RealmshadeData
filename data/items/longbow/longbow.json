@@ -1,0 +1,20 @@
+{
+	"name" : "longbow",
+	"width" : 2,
+	"height" : 4,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"damage" : 50
+		},
+		{
+			"type" : "cooldown",
+			"time" : 8,
+			"damage" : 50
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Длинный Лук"
+	}
+}

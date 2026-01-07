@@ -1,0 +1,30 @@
+{
+	"name" : "silver_axe",
+	"width" : 2,
+	"height" : 4,
+
+	"tags" : [
+		"melee",
+		"axe"
+	],
+
+	"tag_values" : {
+		"woodcutting" : 4
+	},
+
+	"effects" : [
+		{
+			"type" : "start",
+			"swiftness" : 30
+		},
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"damage" : 30,
+			"fury" : 8
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Серебряный Топор"
+	}
+}

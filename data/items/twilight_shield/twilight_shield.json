@@ -1,0 +1,17 @@
+{
+	"name" : "twilight_shield",
+	"width" : 2,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"block" : 75,
+			"self_doom" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Сумеречный Щит"
+	}
+}

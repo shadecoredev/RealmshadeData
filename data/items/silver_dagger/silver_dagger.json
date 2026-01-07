@@ -1,0 +1,25 @@
+{
+	"name" : "silver_dagger",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 25
+		},
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"barrier_steal" : 25,
+			"damage" : 25
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Серебряный Кинжал"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name" : "dread_robe",
+	"width" : 2,
+	"height" : 3,
+
+	"tags" : [
+		"apparel"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"health" : 100,
+		},
+		{
+			"type" : "cooldown",
+			"time" : 4,
+			"regeneration_power" : 5,
+			"regeneration" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Платье Ужаса"
+	}
+}

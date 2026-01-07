@@ -1,0 +1,19 @@
+{
+	"name" : "cloth_tunic",
+	"width" : 2,
+	"height" : 2,
+
+	"tags" : [
+		"apparel"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 25,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Тканевая Туника"
+	}
+}

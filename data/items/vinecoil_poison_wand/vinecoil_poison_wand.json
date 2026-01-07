@@ -1,0 +1,25 @@
+{
+	"name" : "vinecoil_poison_wand",
+	"width" : 1,
+	"height" : 4,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"poison_power" : 10,
+			"poison" : 6
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"poison" : 6
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Катушка Лозы Жезл Яда"
+	}
+}

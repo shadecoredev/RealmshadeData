@@ -1,0 +1,25 @@
+{
+	"name" : "copper_pickaxe",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"melee",
+		"pickaxe"
+	],
+	
+	"tag_values" : {
+		"mining" : 6
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"damage" : 55
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Медная Кирка"
+	}
+}

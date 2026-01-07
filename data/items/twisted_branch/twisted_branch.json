@@ -1,0 +1,21 @@
+{
+	"name" : "twisted_branch",
+	"width" : 1,
+	"height" : 2,
+
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"doom" : 18,
+			"self_doom" : 6
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Скрученная Ветка"
+	}
+}

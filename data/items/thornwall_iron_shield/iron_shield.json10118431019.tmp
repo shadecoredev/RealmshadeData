@@ -1,0 +1,21 @@
+{
+	"name" : "iron_shield",
+	"width" : 2,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block_power" : 10,
+			"absorption" : 20,
+			"block" : 100,
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"block_power" : 10,
+			"block" : 100,
+			"absorption" : 20
+		}
+	]
+}

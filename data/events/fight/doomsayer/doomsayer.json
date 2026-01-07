@@ -1,0 +1,47 @@
+{
+	"name" : "doomsayer",
+	"type" : "fight",
+	"level_range_start" : 5,
+	"level_range_end" : 7,
+	"inventory" : {
+		"items": [
+		{
+			"name": "doom_wand",
+			"position": 0
+		},
+		{
+			"name": "magic_hat",
+			"position": 16
+		},
+		{
+			"name": "aquamarine_ring",
+			"position": 18
+		},
+		{
+			"name": "doom_wand",
+			"position": 64
+		},
+		{
+			"name": "ruby_ring",
+			"position": 50
+		},
+		{
+			"name": "magic_boots",
+			"position": 19
+		},
+		{
+			"name": "wither_ring",
+			"position": 34
+		},
+		{
+			"name": "magic_orb",
+			"position": 51
+		}
+	],
+		"width": 5,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Вестник Рока"
+	}
+}

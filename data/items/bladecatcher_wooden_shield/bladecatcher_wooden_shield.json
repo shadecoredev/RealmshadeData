@@ -1,0 +1,20 @@
+{
+	"name" : "bladecatcher_wooden_shield",
+	"width" : 2,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"damage_resistance" : 15
+		},
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"block" : 30
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Ловец Лезвий Деревянный Щит"
+	}
+}

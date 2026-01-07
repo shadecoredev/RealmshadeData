@@ -1,0 +1,24 @@
+{
+	"name" : "spectral_robe",
+	"width" : 2,
+	"height" : 3,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 60
+		},
+		{
+			"type" : "cooldown",
+			"time" : 4,
+			"restore_barrier_percent" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Спектральное Платье"
+	}
+}

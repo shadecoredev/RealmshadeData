@@ -1,0 +1,19 @@
+{
+	"name" : "emerald_ring",
+	"width" : 1,
+	"height" : 1,
+	
+	"tags" : [
+		"jewelry"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"poison_resistance" : 100
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Изумрудное Кольцо"
+	}
+}

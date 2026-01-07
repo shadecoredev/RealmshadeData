@@ -1,0 +1,25 @@
+{
+	"name" : "flare_robe",
+	"width" : 2,
+	"height" : 3,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 90
+		},
+		{
+			"type" : "cooldown",
+			"time" : 4,
+			"restore_barrier_percent" : 10,
+			"fire_power" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Платье Вспышки"
+	}
+}

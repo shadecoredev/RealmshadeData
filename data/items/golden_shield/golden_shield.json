@@ -1,0 +1,24 @@
+{
+	"name" : "golden_shield",
+	"width" : 2,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"absorption_power" : 5,
+			"absorption" : 50,
+			"block" : 50
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"absorption_power" : 5,
+			"absorption" : 50,
+			"block" : 50
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотой Щит"
+	}
+}

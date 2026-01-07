@@ -1,0 +1,51 @@
+{
+	"name" : "goblin_scout",
+	"type" : "fight",
+	"level_range_start" : 4,
+	"level_range_end" : 6,
+	"inventory" : {
+		"items": [
+		{
+			"name": "green_skin",
+			"position": 32
+		},
+		{
+			"name": "green_skin",
+			"position": 64
+		},
+		{
+			"name": "leather_gloves",
+			"position": 18
+		},
+		{
+			"name": "cloth_tunic",
+			"position": 50
+		},
+		{
+			"name": "longbow",
+			"position": 96
+		},
+		{
+			"name": "iron_dagger",
+			"position": 82
+		},
+		{
+			"name": "dynamite_stick",
+			"position": 2
+		},
+		{
+			"name": "dynamite_stick",
+			"position": 275
+		},
+		{
+			"name": "dynamite_stick",
+			"position": 257
+		}
+	],
+		"width": 8,
+		"height": 4
+	},
+	"translation" : {
+		"ru_RU" : "Гоблин Разведчик"
+	}
+}

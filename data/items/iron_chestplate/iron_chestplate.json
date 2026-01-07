@@ -1,0 +1,22 @@
+{
+	"name" : "iron_chestplate",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"armor",
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"damage_resistance" : 40,
+			"absorption" : 100,
+			"health" : 200,
+			"block" : 200,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Железный Нагрудник"
+	}
+}

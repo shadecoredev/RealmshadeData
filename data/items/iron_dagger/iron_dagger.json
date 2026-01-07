@@ -1,0 +1,21 @@
+{
+	"name" : "iron_dagger",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"block_steal" : 15,
+			"damage" : 25
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Железный Кинжал"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"name" : "crimson_necklace",
+	"width" : 2,
+	"height" : 1,
+
+	"tags" : [
+		"jewelry"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"steal_power" : 20
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Багровое Ожерелье"
+	}
+}

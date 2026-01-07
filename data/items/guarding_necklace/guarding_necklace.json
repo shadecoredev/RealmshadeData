@@ -1,0 +1,25 @@
+{
+	"name" : "guarding_necklace",
+	"width" : 2,
+	"height" : 1,
+
+	"tags" : [
+		"jewelry"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"damage_resistance" : 100
+		},
+		{
+			"type" : "cooldown",
+			"time" : 4,
+			"charges" : 4,
+			"damage_resistance" : -25,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Оберегающее Ожерелье"
+	}
+}

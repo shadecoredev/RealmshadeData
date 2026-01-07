@@ -1,0 +1,25 @@
+{
+	"name" : "silver_helmet",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"damage_power" : 10,
+			"block" : 200,
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"damage_power" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Серебряный Шлем"
+	}
+}

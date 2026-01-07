@@ -1,0 +1,21 @@
+{
+	"name" : "golden_dagger",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 3,
+			"absorption_steal" : 20,
+			"damage" : 35
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотой Кинжал"
+	}
+}

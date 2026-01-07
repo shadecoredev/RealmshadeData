@@ -1,0 +1,22 @@
+{
+	"name" : "thornwall_iron_shield",
+	"width" : 2,
+	"height" : 3,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 80,
+			"thorns" : 15
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"block" : 80,
+			"thorns" : 15
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Стена Шипов Железный Щит"
+	}
+}

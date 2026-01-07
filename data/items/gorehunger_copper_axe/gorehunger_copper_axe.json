@@ -1,0 +1,27 @@
+{
+	"name" : "gorehunger_copper_axe",
+	"width" : 2,
+	"height" : 3,
+
+	"tags" : [
+		"melee",
+		"axe"
+	],
+
+	"tag_values" : {
+		"woodcutting" : 3
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"damage" : 15,
+			"health_steal" : 15,
+			"fury" : 5
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Жажда Плоти Медный Топор"
+	}
+}

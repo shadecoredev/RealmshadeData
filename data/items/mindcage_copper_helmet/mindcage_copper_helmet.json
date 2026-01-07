@@ -1,0 +1,20 @@
+{
+	"name" : "mindcage_copper_helmet",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 25,
+			"shock_resistance" : 100
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Клетка Разума Медный Шлем"
+	}
+}

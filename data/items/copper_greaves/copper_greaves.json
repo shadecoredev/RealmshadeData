@@ -1,0 +1,21 @@
+{
+	"name" : "copper_greaves",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"armor"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block_power" : 10,
+			"block" : 50,
+			"swiftness" : -40
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Медные Поножи"
+	}
+}

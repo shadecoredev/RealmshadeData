@@ -1,0 +1,21 @@
+{
+	"name" : "trout",
+	"width" : 3,
+	"height" : 1,
+	
+	"tags" : [
+		"food"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"charges" : 2,
+			"regeneration" : 15
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Форель"
+	}
+}

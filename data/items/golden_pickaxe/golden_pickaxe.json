@@ -1,0 +1,25 @@
+{
+	"name" : "golden_pickaxe",
+	"width" : 3,
+	"height" : 3,
+
+	"tags" : [
+		"melee",
+		"pickaxe"
+	],
+	
+	"tag_values" : {
+		"mining" : 11
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"damage" : 80
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотая Кирка"
+	}
+}

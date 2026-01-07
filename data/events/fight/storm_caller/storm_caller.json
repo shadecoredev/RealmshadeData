@@ -1,0 +1,43 @@
+{
+	"name" : "storm_caller",
+	"type" : "fight",
+	"level_range_start" : 10,
+	"level_range_end" : 10,
+	"inventory" : {
+		"items": [
+		{
+			"name": "thunderblast_shock_wand",
+			"position": 0
+		},
+		{
+			"name": "thunderblast_shock_wand",
+			"position": 17
+		},
+		{
+			"name": "storm_robe",
+			"position": 34
+		},
+		{
+			"name": "emerald_ring",
+			"position": 33
+		},
+		{
+			"name": "topaz_ring",
+			"position": 49
+		},
+		{
+			"name": "thunderblast_shock_wand",
+			"position": 65
+		},
+		{
+			"name": "thunderblast_shock_wand",
+			"position": 80
+		}
+	],
+		"width": 6,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Вестник Бури"
+	}
+}

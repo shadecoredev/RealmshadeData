@@ -1,0 +1,26 @@
+{
+	"name" : "golden_axe",
+	"width" : 2,
+	"height" : 4,
+
+	"tags" : [
+		"melee",
+		"axe"
+	],
+
+	"tag_values" : {
+		"woodcutting" : 5
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"damage" : 60,
+			"fury" : 20
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотой Топор"
+	}
+}

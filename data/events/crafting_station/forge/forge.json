@@ -1,0 +1,97 @@
+{
+	"name" : "forge",
+	"type" : "crafting_station",
+	"level_range_start" : 3,
+	"recipes" : [
+		"branch+branch=stick",
+		"raw_hide+raw_hide=leather_chestplate",
+		"raw_hide+raw_hide=leather_boots",
+		"raw_hide+raw_hide=leather_gloves",
+		"stick+stick=wooden_fishing_rod",
+		"stick+wood=bow",
+		"stick+wood=training_sword",
+		"stick+wood=wooden_shield",
+		"wood+wood=wooden_club",
+		"wood+wood=longbow",
+		
+		"copper_chestplate+spiked_pauldron=spikeward_copper_chestplate",
+		"copper_ingot+ruby=ruby_ring",
+		"copper_ingot+emerald=emerald_ring",
+		"copper_ingot+topaz=topaz_ring",
+		"copper_ingot+aquamarine=aquamarine_ring",
+		"copper_ingot+amethyst=amethyst_ring",
+		
+		"iron_ingot+raw_hide=iron_greaves",
+		"iron_ingot+iron_ingot=iron_chestplate",
+		"iron_ingot+iron_ingot=iron_shield",
+		"iron_ingot+iron_ingot=iron_helmet",
+		"stick+iron_ingot=iron_sword",
+		"stick+iron_ingot=iron_halberd",
+		"stick+iron_ingot=iron_pickaxe",
+		"stick+iron_ingot=iron_dagger",
+		"iron_helmet+iron_ingot=dome_iron_helmet",
+		
+		"copper_ingot+raw_hide=copper_greaves",
+		"copper_ingot+copper_ingot=copper_chestplate",
+		"copper_ingot+copper_ingot=copper_helmet",
+		"copper_ingot+copper_ingot=copper_shield",
+		"stick+copper_ingot=copper_sword",
+		"stick+copper_ingot=copper_axe",
+		"stick+copper_ingot=copper_pickaxe",
+		"stick+copper_ingot=copper_dagger",
+		"copper_helmet+copper_ingot=mindcage_copper_helmet",
+
+		"silver_ingot+raw_hide=silver_greaves",
+		"silver_ingot+silver_ingot=silver_chestplate",
+		"silver_ingot+silver_ingot=silver_shield",
+		"silver_ingot+silver_ingot=silver_helmet",
+		"stick+silver_ingot=silver_sword",
+		"stick+silver_ingot=silver_axe",
+		"stick+silver_ingot=silver_pickaxe",
+		"stick+silver_ingot=silver_dagger",
+		
+		"gold_ingot+raw_hide=golden_greaves",
+		"gold_ingot+gold_ingot=golden_chestplate",
+		"gold_ingot+gold_ingot=golden_shield",
+		"gold_ingot+gold_ingot=golden_helmet",
+		"stick+gold_ingot=golden_sword",
+		"stick+gold_ingot=golden_axe",
+		"stick+gold_ingot=golden_pickaxe",
+		"stick+gold_ingot=golden_dagger",
+		
+		"gold_ingot+ruby=ruby_necklace",
+		"gold_ingot+aquamarine=aquamarine_necklace",
+		"gold_ingot+shock_wand=storm_necklace",
+		
+		"copper_ore+copper_ore=copper_ingot",
+		"iron_ore+iron_ore=iron_ingot",
+		"gold_ore+gold_ore=gold_ingot",
+		"silver_ore+silver_ore=silver_ingot",
+		
+		"wooden_fishing_rod+iron_ingot=reinforced_fishing_rod",
+		"wooden_fishing_rod+silver_ingot=reinforced_fishing_rod",
+		
+		"reinforced_fishing_rod+gold_ingot=golden_fishing_rod",
+		"wooden_fishing_rod+gold_ingot=golden_fishing_rod",
+		
+		"bone+bone=bone_pickaxe",
+		"bone+bone=bone_hatchet",
+		"bone+bone=bone_fishing_rod",
+		
+		"rock+rock=boulder",
+		"rock+stick=stone_hammer",
+		
+		"wooden_shield+green_skin=bladecatcher_wooden_shield",
+		"wooden_shield+raw_hide=reinforced_wooden_shield",
+		"wooden_shield+nasty_skin=vileguard_wooden_shield",
+		
+		"darkwood+darkwood=twilight_shield",
+		"twisted_branch+darkwood=twilight_sword",
+		
+		"wooden_shield+darkwood=twilight_shield",
+		"training_sword+darkwood=twilight_sword"
+	],
+	"translation" : {
+		"ru_RU" : "Кузня"
+	}
+}

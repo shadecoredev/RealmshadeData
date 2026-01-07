@@ -1,0 +1,25 @@
+{
+	"name" : "thunderblast_shock_wand",
+	"width" : 1,
+	"height" : 4,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"shock_power" : 10,
+			"shock" : 9
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"shock" : 18
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Взрыв Бури Жезл Шока"
+	}
+}

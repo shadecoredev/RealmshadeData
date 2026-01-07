@@ -1,0 +1,20 @@
+{
+	"name" : "spade",
+	"width" : 1,
+	"height" : 4,
+	
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 9,
+			"damage" : 65
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Лопата"
+	}
+}

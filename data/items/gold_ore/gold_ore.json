@@ -1,0 +1,16 @@
+{
+	"name" : "gold_ore",
+	"width" : 2,
+	"height" : 1,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 9,
+			"damage" : 65,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотая Руда"
+	}
+}

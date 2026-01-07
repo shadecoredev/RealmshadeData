@@ -1,0 +1,21 @@
+{
+	"name" : "regeneration_potion",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 3,
+			"time" : 6,
+			"regeneration" : 30
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Зелье Регенерации"
+	}
+}

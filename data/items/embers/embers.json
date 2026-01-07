@@ -1,0 +1,16 @@
+{
+	"name" : "embers",
+	"width" : 2,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"fire" : 12
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Угли"
+	}
+}

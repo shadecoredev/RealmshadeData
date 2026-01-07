@@ -1,0 +1,26 @@
+{
+	"name" : "magic_book",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 10,
+			"damage" : 10
+		},
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"restore_barrier" : 10,
+			"damage" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Волшебная Книга"
+	}
+}

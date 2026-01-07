@@ -1,0 +1,51 @@
+{
+	"name" : "bandit_fiend",
+	"type" : "fight",
+	"level_range_start" : 5,
+	"level_range_end" : 6,
+	"inventory" : {
+		"items": [
+		{
+			"name": "copper_helmet",
+			"position": 0
+		},
+		{
+			"name": "iron_dagger",
+			"position": 259
+		},
+		{
+			"name": "aquamarine_ring",
+			"position": 18
+		},
+		{
+			"name": "nasty_skin",
+			"position": 33
+		},
+		{
+			"name": "vile_meat",
+			"position": 35
+		},
+		{
+			"name": "lightstep_boots",
+			"position": 36
+		},
+		{
+			"name": "nasty_skin",
+			"position": 66
+		},
+		{
+			"name": "iron_dagger",
+			"position": 64
+		},
+		{
+			"name": "vampire_fangs",
+			"position": 32
+		}
+	],
+		"width": 6,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Демон Бандит"
+	}
+}

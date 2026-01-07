@@ -1,0 +1,20 @@
+{
+	"name" : "leather_boots",
+	"width" : 2,
+	"height" : 1,
+	
+	"tags" : [
+		"apparel"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"block" : 15,
+			"swiftness" : 10
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Кожаные Ботинки"
+	}
+}

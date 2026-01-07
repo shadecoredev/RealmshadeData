@@ -1,0 +1,20 @@
+{
+	"name" : "amethyst",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"gem"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"doom_resistance" : 33,
+			"doom" : 13
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Аметист"
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"name" : "oozing_monstrosity",
+	"type" : "fight",
+	"level_range_start" : 5,
+	"level_range_end" : 7,
+	"inventory" : {
+		"items": [
+		{
+			"name": "acidic_goo",
+			"position": 113
+		},
+		{
+			"name": "membrane",
+			"position": 112
+		},
+		{
+			"name": "slime_ball",
+			"position": 64
+		},
+		{
+			"name": "acidic_goo",
+			"position": 32
+		},
+		{
+			"name": "membrane",
+			"position": 34
+		},
+		{
+			"name": "regenerative_cells",
+			"position": 1
+		},
+		{
+			"name": "regenerative_cells",
+			"position": 145
+		},
+		{
+			"name": "membrane",
+			"position": 99
+		},
+		{
+			"name": "acidic_goo",
+			"position": 67
+		}
+	],
+		"width": 11,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Сочащееся Чудовище"
+	}
+}

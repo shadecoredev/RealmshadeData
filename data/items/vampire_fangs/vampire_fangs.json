@@ -1,0 +1,20 @@
+{
+	"name" : "vampire_fangs",
+	"width" : 2,
+	"height" : 1,
+
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"health_steal" : 15,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Клыки Вампира"
+	}
+}

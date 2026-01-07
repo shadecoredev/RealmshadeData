@@ -1,0 +1,24 @@
+{
+	"name" : "golden_fishing_rod",
+	"width" : 1,
+	"height" : 5,
+	
+	"tags" : [
+		"fishing_rod"
+	],
+	
+	"tag_values" : {
+		"fishing" : 8
+	},
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 7,
+			"damage" : 45,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Золотая Удочка"
+	}
+}

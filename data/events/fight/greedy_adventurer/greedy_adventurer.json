@@ -1,0 +1,39 @@
+{
+	"name" : "greedy_adventurer",
+	"type" : "fight",
+	"level_range_start" : 5,
+	"level_range_end" : 6,
+	"inventory" : {
+		"items": [
+		{
+			"name": "copper_chestplate",
+			"position": 18
+		},
+		{
+			"name": "copper_sword",
+			"position": 0
+		},
+		{
+			"name": "healing_potion",
+			"position": 3
+		},
+		{
+			"name": "copper_helmet",
+			"position": 16
+		},
+		{
+			"name": "ruby_ring",
+			"position": 67
+		},
+		{
+			"name": "iron_pickaxe",
+			"position": 64
+		}
+	],
+		"width": 7,
+		"height": 5
+	},
+	"translation" : {
+		"ru_RU" : "Жадный Авантюрист"
+	}
+}

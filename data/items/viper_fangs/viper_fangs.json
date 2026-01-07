@@ -1,0 +1,20 @@
+{
+	"name" : "viper_fangs",
+	"width" : 2,
+	"height" : 1,
+
+	"tags" : [
+		"melee"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"time" : 5,
+			"poison" : 3,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Клыки Гадюки"
+	}
+}

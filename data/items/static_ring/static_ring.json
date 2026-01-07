@@ -1,0 +1,19 @@
+{
+	"name" : "static_ring",
+	"width" : 1,
+	"height" : 1,
+	
+	"tags" : [
+		"jewelry"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"shock" : 20
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Статическое Кольцо"
+	}
+}
