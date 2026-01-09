@@ -1,0 +1,15 @@
+{
+	"name" : "magmatic_catalyst",
+	"width" : 1,
+	"height" : 1,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"fire_power" : 5,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Магматический Катализатор"
+	}
+}

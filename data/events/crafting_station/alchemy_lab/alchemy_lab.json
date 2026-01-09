@@ -19,7 +19,67 @@
 		"cleanseroot+moonlily=purifying_potion",
 		"carp+nasty_skin=vitality_potion",
 		"prismatic_scales+healstem=magic_potion",
-		"darkfruit+carp=evil_potion"
+		"darkfruit+carp=evil_potion",
+		
+		"magmatic_catalyst+copper_ore=copper_ingot",
+		"magmatic_catalyst+iron_ore=iron_ingot",
+		"magmatic_catalyst+silver_ore=silver_ingot",
+		"magmatic_catalyst+gold_ore=gold_ingot",
+
+		"darkfruit+bomb=evil_bomb",
+		"darkfruit+soul_shard=swiftness_potion",
+		"soulfruit+prismatic_scales=barrier_potion",
+		"trout+membrane=renewal_potion",
+		"cleanseroot+darkfruit=fury_potion",
+		"brightweed+soul_shard=ignition_potion",
+		"brightweed+bomb=fire_bomb",
+		
+		"branch+poisonleaf=poison_wand",
+		"branch+candle=fire_wand",
+		"torch+soul_shard=fire_wand",
+	
+		"amethyst+bone=doom_wand",
+		"bone+skull=cursed_shield",
+		"candle+skull=black_candle",
+		"copper_sword+vampire_fangs=bloodthirst_copper_sword",
+		"copper_axe+vampire_fangs=gorehunger_copper_axe",
+		"ruby+ruby=life_crystal",
+		
+		"magic_book+embers=fire_spellbook",
+		"magic_book+poisonleaf=poison_spellbook",
+		
+		"copper_dagger+viper_fangs=plaguebringer_copper_dagger",
+		"soul_shard+soul_shard=soul_stone",
+		
+		"fire_wand+soul_shard=blazelash_fire_wand",
+		"poison_wand+soul_shard=vinecoil_poison_wand",
+		"shock_wand+soul_shard=thunderblast_shock_wand",
+		
+		"blazelash_fire_wand+soul_shard=flare_staff",
+		"vinecoil_poison_wand+soul_shard=pestilence_staff",
+		"thunderblast_shock_wand+soul_shard=storm_staff",
+		
+		"fire_wand+soul_stone=flare_staff",
+		"poison_wand+soul_stone=pestilence_staff",
+		"shock_wand+soul_stone=storm_staff",
+
+		"prismatic_scales+raw_hide=magic_boots",
+		"prismatic_scales+prismatic_scales=spectral_robe",
+		"prismatic_scales+prismatic_scales=magic_hat",
+		"prismatic_scales+cloth_tunic=spectral_robe",
+		"prismatic_scales+straw_hat=magic_hat",
+		"magic_orb+soul_stone=oracle_magic_orb",
+		"nasty_skin+nasty_skin=crimson_robe",
+		"regenerative_cells+membrane=dread_robe",
+		"poisonleaf+spectral_robe=pestilence_robe",
+		"embers+spectral_robe=flare_robe",
+		"shock_wand+spectral_robe=storm_robe",
+		"moonlily+spectral_robe=cleansing_robe",
+		
+		"wooden_fishing_rod+soul_shard=soulsiphon_wooden_fishing_rod",
+		
+		"twisted_branch+skull=grim_wand",
+		"magic_book+soulbark=protection_spellbook"
 	],
 	"translation" : {
 		"ru_RU" : "Алхимическая Лаборатория"

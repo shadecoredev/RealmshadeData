@@ -6,12 +6,13 @@
 	"effects" : [
 		{
 			"type" : "start",
-			"health" : 120,
+			"health" : 45,
 		},
 		{
 			"type" : "cooldown",
-			"time" : 8,
-			"health" : 120,
+			"time" : 10,
+			"charges" : 1,
+			"health" : 45,
 		}
 	],
 	"translation" : {

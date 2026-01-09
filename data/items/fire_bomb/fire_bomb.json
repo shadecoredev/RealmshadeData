@@ -1,0 +1,22 @@
+{
+	"name" : "fire_bomb",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"explosive"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 1,
+			"time" : 6,
+			"fire" : 80,
+			"self_fire" : 80
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Огненная Бомба"
+	}
+}

@@ -8,7 +8,7 @@
 			"type" : "cooldown",
 			"time" : 20,
 			"charges" : 1,
-			"damage" : 350
+			"damage" : 300
 		}
 	],
 	"translation" : {

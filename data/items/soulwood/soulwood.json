@@ -1,0 +1,16 @@
+{
+	"name" : "soulwood",
+	"width" : 2,
+	"height" : 2,
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 60,
+			"block" : 60,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Древесина Души"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"name" : "protection_spellbook",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"magic"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 100
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"restore_barrier" : 100
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Книга Защитного Заклинания"
+	}
+}

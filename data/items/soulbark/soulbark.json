@@ -1,15 +1,16 @@
 {
-	"name" : "membrane",
+	"name" : "soulbark",
 	"width" : 2,
 	"height" : 1,
 
 	"effects" : [
 		{
 			"type" : "start",
-			"regeneration" : 15
+			"barrier" : 20,
+			"block" : 20,
 		}
 	],
 	"translation" : {
-		"ru_RU" : "Мембрана"
+		"ru_RU" : "Кора Души"
 	}
 }

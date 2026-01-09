@@ -11,7 +11,7 @@
 		{
 			"type" : "cooldown",
 			"time" : 9,
-			"poison" : 30
+			"poison" : 20
 		}
 	],
 	"translation" : {

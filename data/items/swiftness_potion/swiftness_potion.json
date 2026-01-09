@@ -1,0 +1,25 @@
+{
+	"name" : "swiftness_potion",
+	"width" : 1,
+	"height" : 2,
+
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"swiftness" : 25
+		},
+		{
+			"type" : "cooldown",
+			"time" : 6,
+			"charges" : 1,
+			"self_doom" : 25,
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Зелье Скорости"
+	}
+}

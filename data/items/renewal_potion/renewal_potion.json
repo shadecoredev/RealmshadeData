@@ -1,0 +1,21 @@
+{
+	"name" : "renewal_potion",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 1,
+			"time" : 5,
+			"regeneration" : 60
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Зелье Обновления"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name" : "evil_bomb",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"explosive"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 1,
+			"time" : 4,
+			"doom" : 100,
+			"self_doom" : 100
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Злая Бомба"
+	}
+}

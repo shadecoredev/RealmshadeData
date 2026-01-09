@@ -1,0 +1,19 @@
+{
+	"name" : "soul_crystal",
+	"width" : 3,
+	"height" : 3,
+	
+	"tags" : [
+		"gem"
+	],
+
+	"effects" : [
+		{
+			"type" : "start",
+			"barrier" : 300
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Кристал Души"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name" : "ignition_potion",
+	"width" : 1,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 1,
+			"time" : 6,
+			"fire_power" : 30
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Зелье Воспламенения"
+	}
+}

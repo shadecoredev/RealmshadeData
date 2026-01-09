@@ -11,7 +11,7 @@
 		{
 			"type" : "cooldown",
 			"time" : 10,
-			"damage" : 105
+			"damage" : 100
 		}
 	],
 	"translation" : {

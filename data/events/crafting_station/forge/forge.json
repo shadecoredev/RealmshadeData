@@ -23,7 +23,9 @@
 		
 		"iron_ingot+raw_hide=iron_greaves",
 		"iron_ingot+iron_ingot=iron_chestplate",
+		"iron_chestplate+iron_ingot=bastion_iron_chestplate",
 		"iron_ingot+iron_ingot=iron_shield",
+		"iron_shield+spiked_pauldron=thornwall_iron_shield",
 		"iron_ingot+iron_ingot=iron_helmet",
 		"stick+iron_ingot=iron_sword",
 		"stick+iron_ingot=iron_halberd",
@@ -89,7 +91,13 @@
 		"twisted_branch+darkwood=twilight_sword",
 		
 		"wooden_shield+darkwood=twilight_shield",
-		"training_sword+darkwood=twilight_sword"
+		"training_sword+darkwood=twilight_sword",
+		
+		"soulwood+soulbark=spirit_shield",
+		"wooden_shield+soulwood=spirit_shield",
+		
+		"soulwood+soul_stone=soul_crystal",
+		"gold_ingot+soul_stone=dark_necklace"
 	],
 	"translation" : {
 		"ru_RU" : "Кузня"

@@ -1,0 +1,21 @@
+{
+	"name" : "barrier_potion",
+	"width" : 2,
+	"height" : 2,
+	
+	"tags" : [
+		"potion"
+	],
+
+	"effects" : [
+		{
+			"type" : "cooldown",
+			"charges" : 1,
+			"time" : 7,
+			"barrier" : 250
+		}
+	],
+	"translation" : {
+		"ru_RU" : "Зелье Барьера"
+	}
+}

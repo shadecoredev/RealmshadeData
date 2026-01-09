@@ -1,0 +1,31 @@
+{
+	"name" : "goblin_miner",
+	"type" : "fight",
+	"level_range_start" : 2,
+	"level_range_end" : 3,
+	"inventory" : {
+		"items": [
+		{
+			"name": "candle",
+			"position": 0
+		},
+		{
+			"name": "bone_pickaxe",
+			"position": 48
+		},
+		{
+			"name": "green_skin",
+			"position": 17
+		},
+		{
+			"name": "magmatic_catalyst",
+			"position": 32
+		}
+	],
+		"width": 5,
+		"height": 3
+	},
+	"translation" : {
+		"ru_RU" : "Гоблин Шахтер"
+	}
+}
