@@ -46,7 +46,7 @@ Example `apple.json`:
         }
     ...
     ```
-5. After the CSV translation is complete and all JSON files contain the translation keys, you can create a pull request to merge the changes. New translation become available in the next patch for the game. Each translation contributor will be credited.
+5. After the CSV translation is complete and all JSON files contain the translation keys, you can create a pull request to merge the changes. New translation will become available in the next patch for the game. Each translation contributor will be credited.
 
 ## CSV translation information
 First line of the CSV file contains a comma ',' and a locale code. Choose appropriate locale code for your translation based on this documentation: https://docs.godotengine.org/en/stable/tutorials/i18n/locales.html
