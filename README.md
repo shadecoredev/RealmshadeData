@@ -27,7 +27,7 @@ Example `english.csv`:
         UI_PLAY,"Spielen"
         ...
     ```
-    Make sure to not to add or remove any lines. The resulting CSV must contain the exact same line count as the original `english.csv`. 
+    Make sure to not add or remove any lines. The resulting CSV must contain the exact same line count as the original `english.csv`. 
 4. To add a tranlation to individual items and events, open the directory `data/items` or `data/events`. Each subdirectory contains a JSON file with a key `translation` at the botton of the file. The English name for any item and event is the file name capitalized. Add a new key with your locale, same that you use in CSV file.  
 Example `apple.json`:
     ```json
