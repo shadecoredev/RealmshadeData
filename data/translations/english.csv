@@ -181,7 +181,7 @@ TAG_AXE,"Axe"
 TOOLTIP_UNKNOWN_ITEM,"Unknown Item"
 TOOLTIP_UNKNOWN_ITEM_MSG,"Items are revealed after equipping them in the main inventory during a valour fight."
 
-TOOLTIP_EFFECT_DESCRIPTION,"Effect description"
+TOOLTIP_ADDITIONAL_DESCRIPTION,"Additional description"
 
 TOOLTIP_START,"Start"
 TOOLTIP_COOLDOWN,"cooldown"
@@ -311,3 +311,8 @@ TUTORIAL_VALOUR_FIGHT_PREPARATION_CONTINUE_MSG,"Press "Next" to continue"
 TUTORIAL_TUTORIAL_END,"Tutorial end"
 TUTORIAL_TUTORIAL_END_MSG,"The tutorial is over. You can continue playing normally until you finish this run or start a new one by exiting through [Esc]>Exit button. If you found any parts of the game unclear or want to give any feedback, use [Esc]>Feedback tab."
 TUTORIAL_TUTORIAL_END_FINISH_MSG,"Hold [Right Mouse Button] to finish"
+
+TOOLTIP_ADDITIONAL_HINTS,"Additional hints"
+TOOLTIP_RECIPES_AT_MSG,"Recipes at %s:"
+TOOLTIP_NO_HINTS,"No hints"
+UI_WATCH_REPLAY,"Watch replay"
