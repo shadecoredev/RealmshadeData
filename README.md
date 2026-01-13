@@ -27,7 +27,7 @@ Example `english.csv`:
         UI_PLAY,"Spielen"
         ...
     ```
-    Make sure to not to add or remove any lines. The resulting CSV must contain the exact same line count as the original `english.csv`. 
+    Make sure to not add or remove any lines. The resulting CSV must contain the exact same line count as the original `english.csv`. 
 4. To add a tranlation to individual items and events, open the directory `data/items` or `data/events`. Each subdirectory contains a JSON file with a key `translation` at the botton of the file. The English name for any item and event is the file name capitalized. Add a new key with your locale, same that you use in CSV file.  
 Example `apple.json`:
     ```json
@@ -46,7 +46,7 @@ Example `apple.json`:
         }
     ...
     ```
-5. After the CSV translation is complete and all JSON files contain the translation keys, you can create a pull request to merge the changes. New translation become available in the next patch for the game. Each translation contributor will be credited.
+5. After the CSV translation is complete and all JSON files contain the translation keys, you can create a pull request to merge the changes. New translation will become available in the next patch for the game. Each translation contributor will be credited.
 
 ## CSV translation information
 First line of the CSV file contains a comma ',' and a locale code. Choose appropriate locale code for your translation based on this documentation: https://docs.godotengine.org/en/stable/tutorials/i18n/locales.html
